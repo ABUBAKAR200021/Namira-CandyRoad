@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19743c836aaa9b84083afe19bf8355a1, type: 3}
+  m_Name: CharactersDatabase
+  m_EditorClassIdentifier:
+  _CharacterDictionary:
+    reorderableList: {}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues:
+    - Jack
+    - Marlin
+    - Felix
+    - Astro
+    - Daisy
+    - Pixie
+    _keys:
+    - Jack
+    - Marlin
+    - Felix
+    - Astro
+    - Daisy
+    - Pixie
+    _values:
+    - Bio: Jack's extremely stupid. He used to live inside a tea kettle for 5 years. Recently he got aware of that and started living in an actual house.
+      PriceInStars: 0
+      PriceInCoins: 0
+    - Bio: Marlin's lives in a street downtown and is fond of rare cars. He races with utmost passion with the ultimate goal of becoming the number one racer in town, overcoming any challenges and paving his path to Victory!
+      PriceInStars: 25
+      PriceInCoins: 1000
+    - Bio: With a spiky hairstyle, Felix is one of the cool racers around. His passion pushed him to car racing since he was only a 12-year-old lad. He just cares too much about his hair!
+      PriceInStars: 35
+      PriceInCoins: 1200
+    - Bio: Astro's a thoughtful boy. He was pushed towards racing by his friend during a town's car rally championship. His quality of paying attention to minor details often wins him impossible races.
+      PriceInStars: 45
+      PriceInCoins: 1500
+    - Bio: Daisy lives in a dream world full of breathless wonders. She thinks her fantasies along with her lucky daisy flower, help her win races.
+      PriceInStars: 60
+      PriceInCoins: 1800
+    - Bio: Pixie is a cool blondie, always looking forward to challenging her opponents face to face. She likes to win the races and she’s a sweetheart girl
+      PriceInStars: 85
+      PriceInCoins: 2200

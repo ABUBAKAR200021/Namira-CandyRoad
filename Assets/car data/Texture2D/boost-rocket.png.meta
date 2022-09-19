@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 727b932713cee1d47b0011055391ae51
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: boost-rocket
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 65
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 56
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boost-rocket
+      rect:
+        serializedVersion: 2
+        x: 22.07612
+        y: 21.00404
+        width: 468.8478
+        height: 468.9199
+      alignment: 9
+      pivot: {x: 0.4989335, y: 0.5011431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110.5, y: -212.464}
+        - {x: -112.5, y: -200.464}
+        - {x: -38.50002, y: -145.464}
+        - {x: -35.50002, y: -137.464}
+        - {x: -77.50002, y: -151.464}
+        - {x: -88.50002, y: -140.464}
+        - {x: -123.5, y: -180.464}
+        - {x: -144.5, y: -196.464}
+        - {x: -145.5, y: -176.464}
+        - {x: -166.5, y: -183.464}
+        - {x: -188.5, y: -206.464}
+        - {x: -198.5, y: -233.464}
+        - {x: -199.5, y: -234.464}
+        - {x: -209.5, y: -234.464}
+        - {x: -234.5, y: -212.464}
+        - {x: -234.5, y: -147.464}
+        - {x: -223.5, y: -132.464}
+        - {x: -227.5, y: -116.464}
+        - {x: -219.5, y: -87.46397}
+        - {x: -206.5, y: -47.46397}
+        - {x: -192.5, y: 6.536026}
+        - {x: -161.5, y: 73.53603}
+        - {x: -139.5, y: 100.536}
+        - {x: -117.5, y: 120.536}
+        - {x: -91.50002, y: 136.536}
+        - {x: -54.50002, y: 147.536}
+        - {x: -29.50002, y: 144.536}
+        - {x: -1.500015, y: 165.536}
+        - {x: 43.49998, y: 191.536}
+        - {x: 64.49998, y: 203.536}
+        - {x: 153.5, y: 232.536}
+        - {x: 161.5, y: 234.536}
+        - {x: 222.5, y: 234.536}
+        - {x: 232.5, y: 233.536}
+        - {x: 234.5, y: 226.536}
+        - {x: 234.5, y: 199.536}
+        - {x: 232.5, y: 181.536}
+        - {x: 218.5, y: 126.536}
+        - {x: 192.5, y: 70.53603}
+        - {x: 184.5, y: 56.53603}
+        - {x: 152.5, y: 10.53603}
+        - {x: 113.5, y: -28.46397}
+        - {x: 114.5, y: -37.46397}
+        - {x: 108.5, y: -70.46397}
+        - {x: 90.49998, y: -110.464}
+        - {x: 76.49998, y: -129.464}
+        - {x: 48.49998, y: -154.464}
+        - {x: 29.49999, y: -166.464}
+        - {x: -30.50002, y: -193.464}
+        - {x: -51.50002, y: -201.464}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff43f1c6d6e43c8a5315d8622bd4b88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

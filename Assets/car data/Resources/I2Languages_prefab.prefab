@@ -1,0 +1,1885 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+PrefabInstance:
+  serializedVersion: 2
+  m_RootGameObject: {fileID: 1372946236543028}
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+--- !u!1 &1372946236543028
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 100100000}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4882603763398530}
+  - component: {fileID: 114167766672227231}
+  m_Layer: 0
+  m_Name: I2Languages_prefab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4882603763398530
+Transform:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 100100000}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1372946236543028}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1329.371, y: 291.1848, z: 24.3834}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114167766672227231
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 100100000}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1372946236543028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76104232885af154491bd848a1ae452f, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: a new car is ready to be unlocked!
+      TermType: 0
+      Description:
+      Languages:
+      - a new car is ready to be unlocked!
+      - ¡Un auto nuevo está listo para ser desbloqueado!
+      - une nouvelle voiture est prête à être déverrouillée!
+      - mobil baru siap dibuka kuncinya!
+      - um novo carro está pronto para ser destrancado!
+      - سيارة جديدة جاهزة للفتح!
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Tap To Continue
+      TermType: 0
+      Description:
+      Languages:
+      - Tap To Continue
+      - Pulse Para Continuar
+      - Appuyez Pour Continuer
+      - Ketuk Untuk Melanjutkan
+      - Clique Para Continuar
+      - إضغط للإستمرار
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: UNLOCK ALL CARS
+      TermType: 0
+      Description:
+      Languages:
+      - Unlock All Cars
+      - Desbloquear Todos Los Coches
+      - Déverrouiller Toutes Les Voitures
+      - Buka Kunci Semua Mobil
+      - Desbloquear Todos Os Carros
+      - فتح جميع السيارات
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Unlock
+      TermType: 0
+      Description:
+      Languages:
+      - Unlock
+      - Desbloquear
+      - Ouvrir
+      - Membuka Kunci
+      - Desbloquear
+      - الغاء القفل
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Upgrade
+      TermType: 0
+      Description:
+      Languages:
+      - Upgrade
+      - Potenciar
+      - Améliorer
+      - Meningkatkan
+      - Melhoria
+      - تطوير
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: YES
+      TermType: 0
+      Description:
+      Languages:
+      - Yes
+      - Si
+      - Oui
+      - Iya
+      - Sim
+      - نعم
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Track Selection
+      TermType: 0
+      Description:
+      Languages:
+      - Track Selection
+      - Selección De Pista
+      - Sélection De Piste
+      - Pemilihan Trek
+      - Seleção De Trilha
+      - اختيار المسار
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: This is your Character
+      TermType: 0
+      Description:
+      Languages:
+      - This is your Character
+      - Este es tu personaje
+      - Ceci est votre personnage
+      - Ini adalah Karakter Anda
+      - Este é o seu personagem
+      - هذه هي شخصيتك
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Select the car
+      TermType: 0
+      Description:
+      Languages:
+      - Select the car
+      - Seleccione el auto
+      - Sélectionnez la voiture
+      - Pilih mobilnya
+      - Selecione o carro
+      - اختر السيارة
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: SPEED
+      TermType: 0
+      Description:
+      Languages:
+      - Speed
+      - Velocidad
+      - La Vitesse
+      - Kecepatan
+      - Rapidez
+      - سرعة
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Resolution
+      TermType: 0
+      Description:
+      Languages:
+      - Resolution
+      - Resolución
+      - Résolution
+      - Resolusi
+      - Resolução
+      - الدقة
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: PowerUps
+      TermType: 0
+      Description:
+      Languages:
+      - PowerUps
+      - PowerUps
+      - Mises sous tension
+      - Kekuatan bertambah
+      - Poderes
+      - زادت الطاقة
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: BACK
+      TermType: 0
+      Description:
+      Languages:
+      - Back
+      - Espalda
+      - Retour
+      - Kembali
+      - Costas
+      - عودة
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Apply
+      TermType: 0
+      Description:
+      Languages:
+      - Apply
+      - Aplicar
+      - Appliquer
+      - Menerapkan
+      - Aplique
+      - تطبيق
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Achievements
+      TermType: 0
+      Description:
+      Languages:
+      - Achievements
+      - Logros
+      - Réalisations
+      - Prestasi
+      - Conquistas
+      - الإنجازات
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Acceleration
+      TermType: 0
+      Description:
+      Languages:
+      - Acceleration
+      - Aceleración
+      - Accélération
+      - Percepatan
+      - Aceleração
+      - التسريع
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: SETTING
+      TermType: 0
+      Description:
+      Languages:
+      - Setting
+      - Ajuste
+      - Réglage
+      - Pengaturan
+      - Configuração
+      - ضبط
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: POWER UPGRADED!
+      TermType: 0
+      Description:
+      Languages:
+      - Power Upgraded!
+      - Potencia Mejorada!
+      - Puissance Améliorée!
+      - Daya Ditingkatkan!
+      - Poder Atualizado!
+      - ترقية الطاقة!
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: PLAY
+      TermType: 0
+      Description:
+      Languages:
+      - Play
+      - Tocar
+      - Jouer
+      - Bermain
+      - Jogar
+      - لعب
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Out of Resources
+      TermType: 0
+      Description:
+      Languages:
+      - Out of Resources
+      - Sin recursos
+      - Manque de ressources
+      - Kehabisan Sumber Daya
+      - Sem Recursos
+      - نفاد الموارد
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: OPEN
+      TermType: 0
+      Description:
+      Languages:
+      - Open
+      - Abierto
+      - Ouvert
+      - Buka
+      - Abrir
+      - افتح
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: OKAY
+      TermType: 0
+      Description:
+      Languages:
+      - Okay
+      - Bueno
+      - D'accord
+      - Baik
+      - OK
+      - حسنا
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Not Enough money
+      TermType: 0
+      Description:
+      Languages:
+      - Not Enough money
+      - Dinero insuficiente
+      - Pas assez d'argent
+      - Tidak cukup uang
+      - Dinheiro insuficiente
+      - مال غير كاف
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Normal
+      TermType: 0
+      Description:
+      Languages:
+      - Normal
+      - Normal
+      - Ordinaire
+      - Normal
+      - Normal
+      - عادي
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Next Level
+      TermType: 0
+      Description:
+      Languages:
+      - Next Level
+      - Siguiente Nivel
+      - Niveau Suivant
+      - Level Selanjutnya
+      - Próximo Nível
+      - المرحلة التالية
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Offers
+      TermType: 0
+      Description:
+      Languages:
+      - Offers
+      - Ofertas
+      - Des Offres
+      - Penawaran
+      - Ofertas
+      - عروض
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Purchase
+      TermType: 0
+      Description:
+      Languages:
+      - Purchase
+      - Compra
+      - Achat
+      - Membeli
+      - Compra
+      - عملية الشراء
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Quit Game
+      TermType: 0
+      Description:
+      Languages:
+      - Quit Game
+      - Salir Del Juego
+      - Quitter Le Jeu
+      - Keluar Dari Permainan
+      - Sair Do Jogo
+      - إنهاء اللعبة
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: SHOP
+      TermType: 0
+      Description:
+      Languages:
+      - Shop
+      - Tienda
+      - Boutique
+      - Toko
+      - Fazer Compras
+      - متجر
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Claim
+      TermType: 0
+      Description:
+      Languages:
+      - Claim
+      - Reclamación
+      - Prétendre
+      - Klaim
+      - Afirmação
+      - يطالب
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Close
+      TermType: 0
+      Description:
+      Languages:
+      - Close
+      - Cerca
+      - Fermer
+      - Menutup
+      - Perto
+      - أغلق
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Claim your prize!
+      TermType: 0
+      Description:
+      Languages:
+      - Claim your prize!
+      - ¡Reclama tu premio!
+      - Réclamez votre prix!
+      - Klaim hadiah Anda!
+      - Reivindicar seu prêmio!
+      - احصل على هديتك!
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Characters
+      TermType: 0
+      Description:
+      Languages:
+      - Characters
+      - Caracteres
+      - Personnages
+      - Karakter
+      - Personagens
+      - الشخصيات
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Cars
+      TermType: 0
+      Description:
+      Languages:
+      - Cars
+      - Coches
+      - Voitures
+      - Mobil
+      - Carros
+      - سيارات
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Cancel
+      TermType: 0
+      Description:
+      Languages:
+      - Cancel
+      - Cancelar
+      - Annuler
+      - Membatalkan
+      - Cancelar
+      - إلغاء
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Coins
+      TermType: 0
+      Description:
+      Languages:
+      - Coins
+      - Monedas
+      - Pièces De Monnaie
+      - Koin
+      - Moedas
+      - عملات معدنية
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Confirm
+      TermType: 0
+      Description:
+      Languages:
+      - Confirm
+      - Confirmar
+      - Confirmer
+      - Konfirmasi
+      - Confirme
+      - تؤكد
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Confirm Purchase
+      TermType: 0
+      Description:
+      Languages:
+      - Confirm Purchase
+      - Confirmar Compra
+      - Confirmer L'achat
+      - Konfirmasi Pembelian
+      - Confirmar Compra
+      - تأكيد الشراء
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Daily Reward
+      TermType: 0
+      Description:
+      Languages:
+      - Daily Reward
+      - Recompensa Diaria
+      - Récompense Quotidienne
+      - Hadiah Harian
+      - Recompensa Diária
+      - مكافأة اليومية
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Coming Soon
+      TermType: 0
+      Description:
+      Languages:
+      - Coming soon
+      - Próximamente
+      - Bientôt disponible
+      - Segera akan datang
+      - Em breve
+      - قريبا
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Buy
+      TermType: 0
+      Description:
+      Languages:
+      - Buy
+      - Comprar
+      - Acheter
+      - Membeli
+      - Comprar
+      - يشترى
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: GRIP
+      TermType: 0
+      Description:
+      Languages:
+      - Grip
+      - Apretón
+      - Poignée
+      - Pegangan
+      - Firmeza
+      - قبضة
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: HIGH
+      TermType: 0
+      Description:
+      Languages:
+      - High
+      - Alto
+      - Haute
+      - Tinggi
+      - Alto
+      - عالي
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Let's upgrade your power ups!
+      TermType: 0
+      Description:
+      Languages:
+      - Let's upgrade your power ups!
+      - ¡Actualicemos tus potenciadores!
+      - Améliorons vos power-ups!
+      - Ayo tingkatkan power up Anda!
+      - Vamos atualizar seus power-ups!
+      - لنقم بترقية شكا من السلطة!
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Let's view the awesome cars!
+      TermType: 0
+      Description:
+      Languages:
+      - Let's view the awesome cars!
+      - ¡Veamos los increíbles autos!
+      - Voyons les super voitures!
+      - Mari kita lihat mobil-mobil luar biasa!
+      - Vamos ver os carros incríveis!
+      - لنشاهد السيارات الرائعة!
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: MEDIUM
+      TermType: 0
+      Description:
+      Languages:
+      - Medium
+      - Medio
+      - Moyen
+      - Medium
+      - Médio
+      - متوسط
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: MODE Selection
+      TermType: 0
+      Description:
+      Languages:
+      - Mode Selection
+      - Selección De Modo
+      - Sélection De Mode
+      - Mode Pilihan
+      - Seleção De Modo
+      - طريقة الاختيار
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: MUSIC
+      TermType: 0
+      Description:
+      Languages:
+      - Music
+      - Música
+      - La Musique
+      - Musik
+      - Música
+      - موسيقى
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Max Level
+      TermType: 0
+      Description:
+      Languages:
+      - Max Level
+      - Máximo Nivel
+      - Niveau Maximum
+      - Level Maksimal
+      - Nível Máximo
+      - اعلى مستوى
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: NO
+      TermType: 0
+      Description:
+      Languages:
+      - No
+      - No
+      - Non
+      - Tidak
+      - Não
+      - لا
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: FREE COINS
+      TermType: 0
+      Description:
+      Languages:
+      - Free Coins
+      - Monedas Gratis
+      - Pièces Gratuites
+      - Koin Gratis
+      - Moedas Grátis
+      - عملات مجانية
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: INSTALL
+      TermType: 0
+      Description:
+      Languages:
+      - Install
+      - Instalar En Pc
+      - Installer
+      - Install
+      - Instalar
+      - تثبيت
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: LEADER BOARD
+      TermType: 0
+      Description:
+      Languages:
+      - Leader Board
+      - Tabla De Líderes
+      - Classement
+      - Papan Pemimpin
+      - Entre Os Melhores
+      - مجلس الزعيم
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: LOW
+      TermType: 0
+      Description:
+      Languages:
+      - Low
+      - Bajo
+      - Faible
+      - Rendah
+      - Baixo
+      - منخفض
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Later
+      TermType: 0
+      Description:
+      Languages:
+      - Later
+      - Luego
+      - Plus Tard
+      - Kemudian
+      - Mais Tarde
+      - في وقت لاحق
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: LeaderBoard
+      TermType: 0
+      Description:
+      Languages:
+      - LeaderBoard
+      - Tabla de clasificación
+      - Classement
+      - LeaderBoard
+      - Entre os melhores
+      - ليدربورد
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Let's buy it
+      TermType: 0
+      Description:
+      Languages:
+      - Let's buy it
+      - Vamos a comprarlo
+      - Achetons-le
+      - Ayo beli
+      - Vamos compra-lo
+      - هيا نشتريها
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Earn experience to unlock new powerups, tracks, cars and  much more!
+      TermType: 0
+      Description:
+      Languages:
+      - Earn experience to unlock new powerups, cars and  much more!
+      - ¡Gana experiencia para desbloquear nuevos potenciadores, pistas, coches y mucho más!
+      - Gagnez de l'expérience pour débloquer de nouveaux bonus, pistes, voitures et bien plus encore!
+      - Dapatkan pengalaman untuk membuka powerup baru, trek, mobil, dan banyak lagi!
+      - Ganhe experiência para desbloquear novos powerups, pistas, carros e muito mais!
+      - كسب الخبرة لفتح بووروبس جديدة ، والسيارات وأكثر من ذلك بكثير!
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Tap on the chest to get your daily reward!
+      TermType: 0
+      Description:
+      Languages:
+      - Tap on the chest to get your daily reward!
+      - ¡Toca el cofre para obtener tu recompensa diaria!
+      - Appuyez sur le coffre pour obtenir votre récompense quotidienne!
+      - Ketuk peti untuk mendapatkan hadiah harian Anda!
+      - Toque no baú para obter sua recompensa diária!
+      - اضغط على الصندوق للحصول على مكافأتك اليومية!
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Snow
+      TermType: 0
+      Description:
+      Languages:
+      - Snow
+      - Nieve
+      - Neige
+      - Salju
+      - Neve
+      - الثلج
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Diamonds
+      TermType: 0
+      Description:
+      Languages:
+      - Diamonds
+      - Diamantes
+      - Diamants
+      - Berlian
+      - Diamantes
+      - الماس
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: GARAGE
+      TermType: 0
+      Description:
+      Languages:
+      - Garage
+      - Garaje
+      - Garage
+      - Garasi
+      - Garagem
+      - كراج
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: GRAPHICS
+      TermType: 0
+      Description:
+      Languages:
+      - Graphics
+      - Gráficos
+      - Graphique
+      - Grafis
+      - Gráficos
+      - الرسومات
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Select
+      TermType: 0
+      Description:
+      Languages:
+      - Select
+      - Seleccione
+      - Sélectionner
+      - Pilih
+      - Selecionar
+      - تحديد
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Paints
+      TermType: 0
+      Description:
+      Languages:
+      - Paints
+      - Pinturas
+      - Des Peintures
+      - Cat
+      - Tintas
+      - الدهانات
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Race
+      TermType: 0
+      Description:
+      Languages:
+      - Race
+      - Carrera
+      - Course
+      - Ras
+      - Corrida
+      - سباق
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Metal
+      TermType: 0
+      Description:
+      Languages:
+      - Metal
+      - Metal
+      - Métal
+      - Logam
+      - Metal
+      - معدن
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: DESERT
+      TermType: 0
+      Description:
+      Languages:
+      - Desert
+      - Desierto
+      - Désert
+      - Gurun
+      - Deserto
+      - صحراء
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Are You Sure?
+      TermType: 0
+      Description:
+      Languages:
+      - Are You Sure?
+      - ¿Estás Seguro?
+      - Êtes-Vous Sûr?
+      - Apakah Kamu Yakin
+      - Você Tem Certeza?
+      - هل أنت واثق؟
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Sea Port
+      TermType: 0
+      Description:
+      Languages:
+      - Sea Port
+      - Puerto De Mar
+      - Port Maritime
+      - Pelabuhan Laut
+      - Porto Maritimo
+      - ميناء بحري
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: You need to unlock this  car first
+      TermType: 0
+      Description:
+      Languages:
+      - You need to unlock this  car first
+      - Primero debes desbloquear este auto
+      - Vous devez d'abord déverrouiller cette voiture
+      - Anda harus membuka kunci mobil ini terlebih dahulu
+      - Você precisa desbloquear este carro primeiro
+      - تحتاج إلى فتح هذه السيارة أولاً
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Hit The Race Button for your first run!
+      TermType: 0
+      Description:
+      Languages:
+      - Hit The Race Button for your first run!
+      - ¡Pulsa el botón Race para tu primera carrera!
+      - Appuyez sur le bouton Race pour votre première course!
+      - Tekan Tombol Balap untuk lari pertama Anda!
+      - Aperte o botão Race para sua primeira corrida!
+      - اضغط على زر السباق للجري الأول!
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: it seems that you are out of resouces , you can purchase some coins depending on your needs .
+      TermType: 0
+      Description:
+      Languages:
+      - it seems that you are out of resouces , you can purchase some coins depending on your needs .
+      - parece que te quedas sin recursos, puedes comprar algunas monedas según tus necesidades.
+      - il semble que vous soyez à court de ressources, vous pouvez acheter des pièces en fonction de vos besoins.
+      - tampaknya Anda kehabisan sumber daya, Anda dapat membeli beberapa koin tergantung pada kebutuhan Anda.
+      - parece que você está sem recursos, você pode comprar algumas moedas dependendo de suas necessidades.
+      - يبدو أنك نفذت الموارد ، يمكنك شراء بعض العملات حسب احتياجاتك.
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Wait For The Next Reward!
+      TermType: 0
+      Description:
+      Languages:
+      - Wait For The Next Reward!
+      - ¡Espera La Próxima Recompensa!
+      - Attendez La Prochaine Récompense!
+      - Tunggu Hadiah Selanjutnya!
+      - Espere Pela Próxima Recompensa!
+      - انتظر المكافأة التالية!
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: let's Hit The Road
+      TermType: 0
+      Description:
+      Languages:
+      - let's Hit The Road
+      - vamos a la carretera
+      - prenons la route
+      - mari Hit The Road
+      - Vamos pegar a estrada
+      - لنصل الى الطريق
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: CATEGORY
+      TermType: 0
+      Description:
+      Languages:
+      - Category
+      - Categoría
+      - Catégorie
+      - Kategori
+      - Categoria
+      - الفئة
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Gear DOWN
+      TermType: 0
+      Description:
+      Languages:
+      - Gear Down
+      - Desmultiplicar
+      - Vitesse Vers Le Bas
+      - Persneling Turun
+      - Engrenagem Para Baixo
+      - اسفل
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Gear UP
+      TermType: 0
+      Description:
+      Languages:
+      - Gear Up
+      - Prepararse
+      - Équipement Debout
+      - Bersiap
+      - Preparar-Se
+      - استعد
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: 'You Finished:'
+      TermType: 0
+      Description:
+      Languages:
+      - 'You Finished:'
+      - 'Terminaste:'
+      - 'Vous Avez Fini:'
+      - 'Anda Sudah Selesai:'
+      - 'Você Terminou:'
+      - 'انتهيت:'
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: HOME
+      TermType: 0
+      Description:
+      Languages:
+      - Home
+      - Casa
+      - Domicile
+      - Rumah
+      - Casa
+      - الصفحة الرئيسية
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Wrong Way
+      TermType: 0
+      Description:
+      Languages:
+      - Wrong Way
+      - Sentido Contrario
+      - Fausse Route
+      - Cara Yang Salah
+      - Maneira Errada
+      - الطريق الخطأ
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: STILL RACING
+      TermType: 0
+      Description:
+      Languages:
+      - Still Racing
+      - Todavía Corriendo
+      - Toujours En Course
+      - Masih Balapan
+      - Ainda Correndo
+      - لا يزال يتسابق
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Restart
+      TermType: 0
+      Description:
+      Languages:
+      - Restart
+      - Reiniciar
+      - Redémarrer
+      - Mengulang Kembali
+      - Reiniciar
+      - اعادة تشغيل
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: REWARDS
+      TermType: 0
+      Description:
+      Languages:
+      - Rewards
+      - Recompensas
+      - Récompenses
+      - Imbalan
+      - Recompensas
+      - المكافآت
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: RESUME
+      TermType: 0
+      Description:
+      Languages:
+      - Resume
+      - Currículum
+      - Reprendre
+      - Lanjut
+      - Currículo
+      - استئنف
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: NEXT
+      TermType: 0
+      Description:
+      Languages:
+      - Next
+      - Siguiente
+      - Prochain
+      - Lanjut
+      - Próximo
+      - التالى
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Game  Pause
+      TermType: 0
+      Description:
+      Languages:
+      - Game  Pause
+      - Pausa Del Juego
+      - Pause De Jeu
+      - Permainan Jeda
+      - Pausa Do Jogo
+      - توقف اللعبة
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: RANK
+      TermType: 0
+      Description:
+      Languages:
+      - Rank
+      - Rango
+      - Rang
+      - Pangkat
+      - Classificação
+      - مرتبة
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: BRONZE PLAYER
+      TermType: 0
+      Description:
+      Languages:
+      - Bronze Player
+      - Jugador De Bronce
+      - Joueur De Bronze
+      - Pemain Perunggu
+      - Jogador De Bronze
+      - لاعب برونزي
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: SILVER PLAYER
+      TermType: 0
+      Description:
+      Languages:
+      - Silver Player
+      - Jugador De Plata
+      - Joueur D'argent
+      - Pemain Perak
+      - Jogador De Prata
+      - لاعب فضي
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: DIAMOND PLAYER
+      TermType: 0
+      Description:
+      Languages:
+      - Diamond Player
+      - Jugador De Diamantes
+      - Joueur De Diamant
+      - Pemain Berlian
+      - Jogador De Diamante
+      - لاعب الماس
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: GOLD PLAYER
+      TermType: 0
+      Description:
+      Languages:
+      - Gold Player
+      - Jugador De Oro
+      - Joueur D'or
+      - Pemain Emas
+      - Jogador De Ouro
+      - لاعب الذهب
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: NAME
+      TermType: 0
+      Description:
+      Languages:
+      - Name
+      - Nombre
+      - Nom
+      - Nama
+      - Nome
+      - اسم
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: NO POSITION
+      TermType: 0
+      Description:
+      Languages:
+      - No Position
+      - Sin Posición
+      - Pas De Position
+      - Tidak Ada Posisi
+      - Nenhuma Posição
+      - لا يوجد موقف
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: tap to activate the power!
+      TermType: 0
+      Description:
+      Languages:
+      - tap to activate the power!
+      - toque para activar el poder!
+      - appuyez pour activer le pouvoir!
+      - ketuk untuk mengaktifkan kekuatan!
+      - toque para ativar o poder!
+      - اضغط لتفعيل الطاقة!
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: tap the Left side of the screen to turn left !
+      TermType: 0
+      Description:
+      Languages:
+      - tap the Left side of the screen to turn left !
+      - toca el lado izquierdo de la pantalla para girar a la izquierda.
+      - appuyez sur le côté gauche de l'écran pour tourner à gauche!
+      - ketuk sisi kiri layar untuk berbelok ke kiri!
+      - toque no lado esquerdo da tela para virar à esquerda!
+      - اضغط على الجانب الأيسر من الشاشة للانعطاف إلى اليسار!
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Total
+      TermType: 0
+      Description:
+      Languages:
+      - Total
+      - Total
+      - Total
+      - Total
+      - Total
+      - مجموع
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Tap the corners to apply brake!!
+      TermType: 0
+      Description:
+      Languages:
+      - Tap the corners to apply brake!!
+      - ¡Toca las esquinas para aplicar el freno!
+      - Appuyez sur les coins pour appliquer le frein !!
+      - Ketuk sudut untuk memasang rem !!
+      - Toque nos cantos para aplicar o freio !!
+      - اضغط على الزوايا لتطبيق الفرامل !!
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: SKIP
+      TermType: 0
+      Description:
+      Languages:
+      - Skip
+      - Omitir
+      - Sauter
+      - Melewatkan
+      - Pular
+      - تخطى
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Revive
+      TermType: 0
+      Description:
+      Languages:
+      - Revive
+      - Reanimar
+      - Relancer
+      - Menghidupkan Kembali
+      - Reviver
+      - اعادة احياء
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Main Menu
+      TermType: 0
+      Description:
+      Languages:
+      - Main Menu
+      - Menú Principal
+      - Menu Principal
+      - Menu Utama
+      - Menu Principal
+      - القائمة الرئيسية
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: 'PRICE:'
+      TermType: 0
+      Description:
+      Languages:
+      - 'Price:'
+      - 'Precio:'
+      - 'Prix:'
+      - 'Harga:'
+      - 'Preço:'
+      - 'السعر:'
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Watch
+      TermType: 0
+      Description:
+      Languages:
+      - Watch
+      - Reloj
+      - Regarder
+      - Menonton
+      - Ver
+      - راقب
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Let's Go
+      TermType: 0
+      Description:
+      Languages:
+      - Let's Go
+      - Vamonos
+      - Allons-Y
+      - Ayo Pergi
+      - Vamos Lá
+      - لنذهب
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: LAPS
+      TermType: 0
+      Description:
+      Languages:
+      - Child
+      - Niño
+      - Enfant
+      - Anak
+      - Criança
+      - طفل
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Construction Area Ahead!
+      TermType: 0
+      Description:
+      Languages:
+      - Construction Area Ahead!
+      - Area De Construccion Adelante!
+      - Zone De Construction À Venir!
+      - Area Konstruksi Di Depan!
+      - Área De Construção À Frente!
+      - منطقة البناء في المستقبل!
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Careful! Dumper Ahead Lost Control!
+      TermType: 0
+      Description:
+      Languages:
+      - Careful! Dumper Ahead Lost Control!
+      - ¡Cuidado! Dumper Adelante Perdió El Control!
+      - Prudent! Dumper Devant Perdu Le Contrôle!
+      - Cermat! Dumper Depan Kehilangan Kendali!
+      - Cuidado! Dumper À Frente Perdeu O Controle!
+      - حذر! قلابة أمام فقدت السيطرة!
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: CheckPoint
+      TermType: 0
+      Description:
+      Languages:
+      - CheckPoint
+      - Control
+      - Point de contrôle
+      - Pos pemeriksaan
+      - CheckPoint
+      - نقطة تفتيش
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Gameplay
+      TermType: 0
+      Description:
+      Languages:
+      - Gameplay
+      - Como Se Juega
+      - Gameplay
+      - Gameplay
+      - Jogabilidade
+      - اللعب
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Avoid The Obstacles
+      TermType: 0
+      Description:
+      Languages:
+      - Avoid The Obstacles
+      - Evitar Los Obstáculos
+      - Éviter Les Obstacles
+      - Hindari Rintangan
+      - Evite Os Obstáculos
+      - تجنب العقبات
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Hit the power up !
+      TermType: 0
+      Description:
+      Languages:
+      - Hit the power up !
+      - ¡Presiona el encendido!
+      - Frappez la puissance!
+      - Tingkatkan kekuatannya!
+      - Ligue o power!
+      - ضرب القوة!
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Game  Over
+      TermType: 0
+      Description:
+      Languages:
+      - Game  Over
+      - Juego Terminado
+      - Jeu Terminé
+      - Permainan Telah Berakhir
+      - Fim De Jogo
+      - انتهت اللعبة
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Fuel
+      TermType: 0
+      Description:
+      Languages:
+      - Fuel
+      - Combustible
+      - Carburant
+      - Bahan Bakar
+      - Combustível
+      - وقود
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Free
+      TermType: 0
+      Description:
+      Languages:
+      - Free
+      - Gratis
+      - Gratuit
+      - Gratis
+      - Livre
+      - مجانا
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: BONUS
+      TermType: 0
+      Description:
+      Languages:
+      - Bonus
+      - Prima
+      - Prime
+      - Bonus
+      - Bônus
+      - علاوة
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: ChangedFromCode/AlRight!
+      TermType: 0
+      Description:
+      Languages:
+      - AlRight!
+      - ¡Bien!
+      - Bien!
+      - Baik!
+      - Tudo bem!
+      - حسنا!
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: ChangedFromCode/Amazing!
+      TermType: 0
+      Description:
+      Languages:
+      - Amazing!
+      - ¡Asombroso!
+      - Incroyable!
+      - Luar Biasa!
+      - Surpreendente!
+      - رائعة حقا!
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: ChangedFromCode/Boost!
+      TermType: 0
+      Description:
+      Languages:
+      - Boost!
+      - ¡Aumentar!
+      - Renforcer!
+      - Dorongan!
+      - Impulso!
+      - تعزيز!
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: ChangedFromCode/ComBo!
+      TermType: 0
+      Description:
+      Languages:
+      - ComBo!
+      - ComBo!
+      - ComBo!
+      - ComBo!
+      - ComBo!
+      - كومبو!
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: ChangedFromCode/Distance
+      TermType: 0
+      Description:
+      Languages:
+      - Distance
+      - Distancia
+      - Distance
+      - Jarak
+      - Distância
+      - مسافة
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: ChangedFromCode/ExcellEnT!!
+      TermType: 0
+      Description:
+      Languages:
+      - ExcellEnT!!
+      - ¡¡Excelente!!
+      - Excellent!!
+      - ExcellEnT !!
+      - Excelente!!
+      - ممتاز!!
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: ChangedFromCode/GreAt!!
+      TermType: 0
+      Description:
+      Languages:
+      - GreAt!!
+      - ¡¡Genial!!
+      - Génial!!
+      - Bagus!!
+      - Ótimo!!
+      - عظيم!!
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: ChangedFromCode/To Go!
+      TermType: 0
+      Description:
+      Languages:
+      - To Go!
+      - ¡Ir!
+      - Aller!
+      - Untuk Pergi!
+      - Ir!
+      - توجو!
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Loading...
+      TermType: 0
+      Description:
+      Languages:
+      - Loading...
+      - Cargando...
+      - Chargement...
+      - Memuat...
+      - Carregando...
+      - جار التحميل...
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Special Offer
+      TermType: 0
+      Description:
+      Languages:
+      - Special Offer
+      - Oferta Especial
+      - Offre Spéciale
+      - Penawaran Istimewa
+      - Oferta Especial
+      - عرض خاص
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: LET'S GO!
+      TermType: 0
+      Description:
+      Languages:
+      - LET'S GO!
+      - ¡VAMONOS!
+      - ALLONS-Y!
+      - AYO PERGI!
+      - VAMOS LÁ!
+      - لنذهب!
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: POSITION
+      TermType: 0
+      Description:
+      Languages:
+      - Position
+      - Posición
+      - Position
+      - Posisi
+      - Posição
+      - موضع
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Lap
+      TermType: 0
+      Description:
+      Languages:
+      - Lap
+      - Regazo
+      - Tour
+      - Putaran
+      - Colo
+      - حضن
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: FINAL LAP
+      TermType: 0
+      Description:
+      Languages:
+      - Final Lap
+      - Vuelta Final
+      - Dernier Tour
+      - Putaran Terakhir
+      - Última Volta
+      - الجولة الاخيرة
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: FINISHED
+      TermType: 0
+      Description:
+      Languages:
+      - Finished
+      - Terminado
+      - Fini
+      - Jadi
+      - Acabado
+      - تم الانتهاء من
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: NEW TRACK UNLOCKED!
+      TermType: 0
+      Description:
+      Languages:
+      - New Track Unlocked!
+      - Nueva Pista Desbloqueada!
+      - Nouvelle Piste Déverrouillée!
+      - Lagu Baru Tidak Terkunci!
+      - Nova Pista Desbloqueada!
+      - مسار جديد مفتوح!
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: CONGRATULATIONS!
+      TermType: 0
+      Description:
+      Languages:
+      - Congratulations!
+      - ¡Felicidades!
+      - Toutes Nos Félicitations!
+      - Selamat!
+      - Parabéns!
+      - تهانينا!
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: SUCCESSFULLY PURCHASED
+      TermType: 0
+      Description:
+      Languages:
+      - 'Successfully
+
+    Purchased'
+      - 'Comprado 
+
+    Exitosamente'
+      - 'Acheté Avec 
+
+    Succès'
+      - 'Berhasil 
+
+    Dibeli'
+      - 'Comprado Com 
+
+    Sucesso'
+      - تم شراؤها بنجاح
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Start
+      TermType: 0
+      Description:
+      Languages:
+      - Start
+      - Comienzo
+      - Début
+      - Mulailah
+      - Começar
+      - بداية
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Finish
+      TermType: 0
+      Description:
+      Languages:
+      - Finish
+      - Terminar
+      - Terminer
+      - Selesai
+      - Terminar
+      - إنهاء
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Endless
+      TermType: 0
+      Description:
+      Languages:
+      - Endless
+      - Interminable
+      - Interminable
+      - Tak Ada Habisnya
+      - Infinito
+      - بلا نهاية
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Arcade
+      TermType: 0
+      Description:
+      Languages:
+      - Arcade
+      - Arcada
+      - Arcade
+      - Arcade
+      - Videogames
+      - ممر
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Pick up the gas can to fill up the tank!
+      TermType: 0
+      Description:
+      Languages:
+      - Pick up the gas can to fill up the tank!
+      - ¡Toma la lata de gasolina para llenar el tanque!
+      - Ramassez le bidon d'essence pour faire le plein!
+      - Angkat kaleng bensin untuk mengisi tangki!
+      - Pegue a lata de gás para encher o tanque!
+      - التقط علبة الغاز لملء الخزان!
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Level Up Panel
+      TermType: 0
+      Description:
+      Languages:
+      - Level Up Panel
+      - Panel De Subir De Nivel
+      - Panneau De Niveau Supérieur
+      - Panel Naik Level
+      - Painel De Subida De Nível
+      - لوحة المستوى الأعلى
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Luducudu
+      TermType: 1
+      Description:
+      Languages:
+      - Luducudu
+      - Luducudu
+      - Luducudu
+      - Luducudu
+      - Luducudu
+      - Amiri-Regular
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Luducudu SDF
+      TermType: 8
+      Description:
+      Languages:
+      - Luducudu SDF
+      - Luducudu SDF
+      - Luducudu SDF
+      - Luducudu SDF
+      - Luducudu SDF
+      - Amiri-Regular SDF
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Amiri-Regular
+      TermType: 1
+      Description:
+      Languages:
+      - Luducudu
+      - Luducudu
+      - Luducudu
+      - Luducudu
+      - Luducudu
+      - Amiri-Regular
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Amiri-Regular SDF
+      TermType: 8
+      Description:
+      Languages:
+      - Luducudu SDF
+      - Luducudu SDF
+      - Luducudu SDF
+      - Luducudu SDF
+      - Luducudu SDF
+      - Amiri-Regular SDF
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: 'Current Level:'
+      TermType: 0
+      Description:
+      Languages:
+      - 'Current Level:'
+      - 'Nivel Actual:'
+      - 'Niveau Actuel:'
+      - 'Level Saat Ini:'
+      - 'Nível Atual:'
+      - 'المستوى الحالي:'
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Language
+      TermType: 0
+      Description:
+      Languages:
+      - Language
+      - Idioma
+      - Langue
+      - Bahasa
+      - Língua
+      - لغة
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Kosugi-Regular
+      TermType: 1
+      Description:
+      Languages:
+      - Luducudu
+      - Luducudu
+      - Luducudu
+      - Luducudu
+      - Luducudu
+      - Amiri-Regular
+      Flags: 000000000000
+      Languages_Touch: []
+    - Term: Kosugi-Regular SDF
+      TermType: 8
+      Description:
+      Languages:
+      - Luducudu SDF
+      - Luducudu SDF
+      - Luducudu SDF
+      - Luducudu SDF
+      - Luducudu SDF
+      - Amiri-Regular SDF
+      Flags: 000000000000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 1
+    OnMissingTranslation: 1
+    mTerm_AppName:
+    mLanguages:
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: Spanish
+      Code: es
+      Flags: 0
+    - Name: French
+      Code: fr
+      Flags: 0
+    - Name: Indonesian
+      Code: id
+      Flags: 0
+    - Name: Portuguese
+      Code: pt
+      Flags: 0
+    - Name: Arabic
+      Code: ar
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 1
+    Google_WebServiceURL: https://script.google.com/macros/s/AKfycbwdXNHsRepoSbEyWCnFTcVx-OmhGBfuLIas4zfeYPdK3fR5xQbZ/exec
+    Google_SpreadsheetKey:
+    Google_SpreadsheetName:
+    Google_LastUpdatedVersion:
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateDelay: 5
+    Assets:
+    - {fileID: 12800000, guid: 1e17ad8f976870342b2e6aa27b499152, type: 3}
+    - {fileID: 12800000, guid: a6fc170d5235cb943abb43c879b7697d, type: 3}
+    - {fileID: 11400000, guid: 1c63bdb188e5d254d817293e7ee42366, type: 2}
+    - {fileID: 11400000, guid: c39201ff91992f040a601da6466e9b95, type: 2}
+  version: 1
+  NeverDestroy: 0
+  UserAgreesToHaveItOnTheScene: 0
+  UserAgreesToHaveItInsideThePluginsFolder: 0
+  GoogleLiveSyncIsUptoDate: 1
+  Assets: []
+  Google_WebServiceURL:
+  Google_SpreadsheetKey:
+  Google_SpreadsheetName:
+  Google_LastUpdatedVersion:
+  GoogleUpdateFrequency: 3
+  GoogleUpdateDelay: 5
+  mLanguages: []
+  IgnoreDeviceLanguage: 0
+  _AllowUnloadingLanguages: 1
+  mTerms: []
+  CaseInsensitiveTerms: 0
+  OnMissingTranslation: 1
+  mTerm_AppName:

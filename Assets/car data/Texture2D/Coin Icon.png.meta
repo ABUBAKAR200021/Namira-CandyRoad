@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: 272a701382b414941bf79c1323674133
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Coin Icon
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 65
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 56
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Coin Icon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 488.9239
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5235988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -255, y: -55.46196}
+        - {x: -256, y: -47.46196}
+        - {x: -256, y: 52.53804}
+        - {x: -255, y: 62.53804}
+        - {x: -253, y: 74.53804}
+        - {x: -247, y: 95.53804}
+        - {x: -238, y: 110.538}
+        - {x: -229, y: 128.538}
+        - {x: -223, y: 137.538}
+        - {x: -209, y: 151.538}
+        - {x: -205, y: 156.538}
+        - {x: -195, y: 160.538}
+        - {x: -197, y: 163.538}
+        - {x: -206, y: 171.538}
+        - {x: -207, y: 190.538}
+        - {x: -202, y: 196.538}
+        - {x: -188, y: 202.538}
+        - {x: -176, y: 198.538}
+        - {x: -164, y: 195.538}
+        - {x: -154, y: 193.538}
+        - {x: -147, y: 200.538}
+        - {x: -136, y: 208.538}
+        - {x: -128, y: 211.538}
+        - {x: -116, y: 221.538}
+        - {x: -86, y: 232.538}
+        - {x: -67, y: 237.538}
+        - {x: -50, y: 239.538}
+        - {x: -38, y: 239.538}
+        - {x: -26, y: 243.538}
+        - {x: -7, y: 244.538}
+        - {x: 50, y: 244.538}
+        - {x: 68, y: 240.538}
+        - {x: 103, y: 235.538}
+        - {x: 123, y: 224.5381}
+        - {x: 138, y: 219.538}
+        - {x: 149, y: 212.538}
+        - {x: 155, y: 209.538}
+        - {x: 168, y: 201.538}
+        - {x: 188, y: 186.538}
+        - {x: 205, y: 171.538}
+        - {x: 212, y: 161.538}
+        - {x: 223, y: 152.538}
+        - {x: 243, y: 119.538}
+        - {x: 247, y: 109.538}
+        - {x: 253, y: 95.53804}
+        - {x: 255, y: 88.53804}
+        - {x: 256, y: 80.53804}
+        - {x: 256, y: -84.46196}
+        - {x: 253, y: -93.46195}
+        - {x: 246, y: -111.462}
+        - {x: 233, y: -138.462}
+        - {x: 223, y: -150.462}
+        - {x: 206, y: -171.462}
+        - {x: 196, y: -183.462}
+        - {x: 191, y: -186.462}
+        - {x: 182, y: -195.462}
+        - {x: 164, y: -208.462}
+        - {x: 142, y: -222.4619}
+        - {x: 132, y: -225.4619}
+        - {x: 126, y: -228.462}
+        - {x: 115, y: -233.462}
+        - {x: 101, y: -237.462}
+        - {x: 93, y: -240.462}
+        - {x: 82, y: -243.462}
+        - {x: 71, y: -244.462}
+        - {x: -62, y: -244.462}
+        - {x: -80, y: -238.462}
+        - {x: -90, y: -237.462}
+        - {x: -119, y: -224.4619}
+        - {x: -142, y: -210.462}
+        - {x: -162, y: -197.4619}
+        - {x: -172, y: -190.462}
+        - {x: -188, y: -175.462}
+        - {x: -208, y: -155.462}
+        - {x: -212, y: -147.462}
+        - {x: -220, y: -138.462}
+        - {x: -232, y: -117.462}
+        - {x: -243, y: -96.46197}
+        - {x: -246, y: -90.46196}
+        - {x: -249, y: -71.46196}
+        - {x: -253, y: -69.46196}
+      physicsShape:
+      - - {x: 100, y: -184.4619}
+        - {x: 126, y: -171.462}
+        - {x: 137, y: -164.462}
+        - {x: 161, y: -145.462}
+        - {x: 177, y: -128.462}
+        - {x: 194, y: -109.462}
+        - {x: 203, y: -94.46195}
+        - {x: 215, y: -70.46196}
+        - {x: 222, y: -55.46195}
+        - {x: 227, y: -36.46196}
+        - {x: 231, y: -18.46196}
+        - {x: 233, y: -3.461959}
+        - {x: 234, y: 8.53804}
+        - {x: 234, y: 46.53804}
+        - {x: 233, y: 58.53804}
+        - {x: 232, y: 65.53804}
+        - {x: 228, y: 89.53804}
+        - {x: 225, y: 95.53804}
+        - {x: 218, y: 113.538}
+        - {x: 211, y: 128.538}
+        - {x: 197, y: 150.538}
+        - {x: 191, y: 158.538}
+        - {x: 164, y: 185.538}
+        - {x: 150, y: 197.538}
+        - {x: 130, y: 210.538}
+        - {x: 104, y: 223.538}
+        - {x: 97, y: 226.538}
+        - {x: 87, y: 230.538}
+        - {x: 78, y: 233.538}
+        - {x: 66.99999, y: 236.538}
+        - {x: 49, y: 240.538}
+        - {x: 34, y: 242.538}
+        - {x: 19, y: 243.538}
+        - {x: -2, y: 243.538}
+        - {x: -20, y: 241.538}
+        - {x: -36, y: 238.538}
+        - {x: -56, y: 233.538}
+        - {x: -81, y: 223.538}
+        - {x: -112, y: 207.538}
+        - {x: -127, y: 197.538}
+        - {x: -141, y: 185.538}
+        - {x: -162, y: 165.538}
+        - {x: -171, y: 154.538}
+        - {x: -189, y: 128.538}
+        - {x: -198, y: 108.538}
+        - {x: -201, y: 98.53804}
+        - {x: -205, y: 85.53804}
+        - {x: -208, y: 72.53804}
+        - {x: -210, y: 59.53804}
+        - {x: -211, y: 49.53804}
+        - {x: -211, y: 4.53804}
+        - {x: -210, y: -5.46196}
+        - {x: -208, y: -19.46196}
+        - {x: -206, y: -29.46196}
+        - {x: -201, y: -48.46196}
+        - {x: -193, y: -72.46196}
+        - {x: -178, y: -98.46196}
+        - {x: -172, y: -107.462}
+        - {x: -159, y: -124.462}
+        - {x: -144, y: -140.462}
+        - {x: -133, y: -150.462}
+        - {x: -115, y: -164.462}
+        - {x: -104, y: -171.462}
+        - {x: -87, y: -180.462}
+        - {x: -66, y: -189.462}
+        - {x: -55, y: -193.462}
+        - {x: -30, y: -199.4619}
+        - {x: -17, y: -201.4619}
+        - {x: -9, y: -202.4619}
+        - {x: 29, y: -202.4619}
+        - {x: 39, y: -201.4619}
+        - {x: 58, y: -198.4619}
+        - {x: 85.99999, y: -190.462}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e941af7d4349f6949cc8fa48855296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

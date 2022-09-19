@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 500a7e90e1f882142ae1847f30308c7e, type: 3}
+  m_Name: AudioClipDictionary
+  m_EditorClassIdentifier:
+  AudioClipsDictionary:
+    reorderableList: {}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues:
+    - Great
+    - Alright
+    - Excellent
+    - Combo
+    - Boost
+    - BoostSound
+    - FuelSound
+    - MagnetSound
+    _keys:
+    - Great
+    - Alright
+    - Excellent
+    - Combo
+    - Boost
+    - BoostSound
+    - FuelSound
+    - MagnetSound
+    _values:
+    - {fileID: 8300000, guid: 45bf16f67f640d247982947d9ce8c107, type: 3}
+    - {fileID: 8300000, guid: 0a19f0709233ff543a41b38679c92cda, type: 3}
+    - {fileID: 8300000, guid: a6827397d97ef8249bf27063896f471f, type: 3}
+    - {fileID: 8300000, guid: 88fea12c65c782845b272e0aa5b0bd06, type: 3}
+    - {fileID: 8300000, guid: 6b8b68c7184615049b836be00fe78823, type: 3}
+    - {fileID: 8300000, guid: ec0633645ef2e1c41bc40ad5209e2d68, type: 3}
+    - {fileID: 8300000, guid: 94ab257b9f423344183999fb4fe08ae1, type: 3}
+    - {fileID: 8300000, guid: ae8bc3536d3f49a4cb3a3fbcf918cf73, type: 3}

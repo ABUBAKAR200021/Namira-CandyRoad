@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a853c20b7a3eda4790b151bd532637c, type: 3}
+  m_Name: LevelUpDataBase
+  m_EditorClassIdentifier:
+  TotalNumberOfUserLevels: 20
+  _PlayerLevelDetails:
+    reorderableList: {}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues:
+    - Level1
+    - Level2
+    - Level3
+    - Level4
+    - Level5
+    - Level6
+    - Level7
+    - Level8
+    - Level9
+    - Level10
+    - Level11
+    - Level12
+    - Level13
+    - Level14
+    - Level15
+    - Level16
+    - Level17
+    - Level18
+    - Level19
+    - Level20
+    _keys:
+    - Level1
+    - Level2
+    - Level3
+    - Level4
+    - Level5
+    - Level6
+    - Level7
+    - Level8
+    - Level9
+    - Level10
+    - Level11
+    - Level12
+    - Level13
+    - Level14
+    - Level15
+    - Level16
+    - Level17
+    - Level18
+    - Level19
+    - Level20
+    _values:
+    - XPRequiredForThisLevel: 0
+      RacesNeedToBeCompleted: 0
+      _XPUnlockItem:
+      - TheItem:
+        - TheItem: 0
+          Amount_or_Name: NosRocket
+        - TheItem: 0
+          Amount_or_Name: RocketPower
+        - TheItem: 0
+          Amount_or_Name: ShieldPower
+        XPRequiredForthisSet: 500
+    - XPRequiredForThisLevel: 500
+      RacesNeedToBeCompleted: 3
+      _XPUnlockItem: []
+    - XPRequiredForThisLevel: 500
+      RacesNeedToBeCompleted: 6
+      _XPUnlockItem: []
+    - XPRequiredForThisLevel: 500
+      RacesNeedToBeCompleted: 7
+      _XPUnlockItem: []
+    - XPRequiredForThisLevel: 500
+      RacesNeedToBeCompleted: 8
+      _XPUnlockItem: []
+    - XPRequiredForThisLevel: 500
+      RacesNeedToBeCompleted: 9
+      _XPUnlockItem: []
+    - XPRequiredForThisLevel: 500
+      RacesNeedToBeCompleted: 10
+      _XPUnlockItem: []
+    - XPRequiredForThisLevel: 500
+      RacesNeedToBeCompleted: 11
+      _XPUnlockItem: []
+    - XPRequiredForThisLevel: 500
+      RacesNeedToBeCompleted: 12
+      _XPUnlockItem: []
+    - XPRequiredForThisLevel: 500
+      RacesNeedToBeCompleted: 13
+      _XPUnlockItem: []
+    - XPRequiredForThisLevel: 500
+      RacesNeedToBeCompleted: 14
+      _XPUnlockItem: []
+    - XPRequiredForThisLevel: 500
+      RacesNeedToBeCompleted: 15
+      _XPUnlockItem: []
+    - XPRequiredForThisLevel: 500
+      RacesNeedToBeCompleted: 16
+      _XPUnlockItem: []
+    - XPRequiredForThisLevel: 500
+      RacesNeedToBeCompleted: 17
+      _XPUnlockItem: []
+    - XPRequiredForThisLevel: 500
+      RacesNeedToBeCompleted: 18
+      _XPUnlockItem: []
+    - XPRequiredForThisLevel: 500
+      RacesNeedToBeCompleted: 19
+      _XPUnlockItem: []
+    - XPRequiredForThisLevel: 500
+      RacesNeedToBeCompleted: 20
+      _XPUnlockItem: []
+    - XPRequiredForThisLevel: 500
+      RacesNeedToBeCompleted: 21
+      _XPUnlockItem: []
+    - XPRequiredForThisLevel: 500
+      RacesNeedToBeCompleted: 22
+      _XPUnlockItem: []
+    - XPRequiredForThisLevel: 500
+      RacesNeedToBeCompleted: 23
+      _XPUnlockItem: []
+  LevelUpRewardSet:
+    TheItem:
+    - TheItem: 2
+      Amount_or_Name: 75
+    - TheItem: 3
+      Amount_or_Name: 26
+    - TheItem: 4
+      Amount_or_Name: 5
+    XPRequiredForthisSet: 0

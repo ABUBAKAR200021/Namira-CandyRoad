@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0132490122e05714eacffd6a9867ed0e, type: 3}
+  m_Name: PowerUpDataBase
+  m_EditorClassIdentifier:
+  MaxPowerUpgradeLevel: 3
+  MaxPowersInDeck: 8
+  RocketPower:
+    Info:
+      Name: Rocket
+      Bio: If you are an accurate marksman, you can blast the formidable opponents with this powerful rocket. Require precision and a lot of practice!!
+      PowerSprite: {fileID: 21300000, guid: 42035beb57927df479b3d19cda4edd71, type: 3}
+      FirstField:
+        FieldInfo: Range in meters
+        from: 110
+        to: 125
+      SecondField:
+        FieldInfo:
+        from:
+        to:
+      ThirdField:
+        FieldInfo:
+        from:
+        to:
+    _PowerUpgradePrices:
+      FirstUpgradePriceInCoins: 250
+      SecondUpgradePriceInCoins: 500
+      ThirdUpgradePriceInCoins: 1000
+      FirstUpgradePriceInCards: 50
+      SecondUpgradePriceInCards: 100
+      ThirdUpgradePriceInCards: 150
+    Tag: RocketPower
+    Range0: 125
+    Range1: 135
+    Range2: 140
+    Range3: 150
+  ShieldPower:
+    Info:
+      Name: Shield
+      Bio: Surround your car with a magical shield. Gotta protect your precious car in the battlefield right?
+      PowerSprite: {fileID: 21300000, guid: af3152e2f43a1bc4cb44e3ccfff9c455, type: 3}
+      FirstField:
+        FieldInfo: Duration in sec
+        from: 3
+        to: 5
+      SecondField:
+        FieldInfo: No. of blocks
+        from: 1
+        to: 2
+      ThirdField:
+        FieldInfo:
+        from:
+        to:
+    _PowerUpgradePrices:
+      FirstUpgradePriceInCoins: 250
+      SecondUpgradePriceInCoins: 500
+      ThirdUpgradePriceInCoins: 1000
+      FirstUpgradePriceInCards: 50
+      SecondUpgradePriceInCards: 100
+      ThirdUpgradePriceInCards: 150
+    Tag: ShieldPower
+    Duration0: 4
+    Blocks0: 1
+    Duration1: 5
+    Blocks1: 2
+    Duration2: 7
+    Blocks2: 3
+    Duration3: 8
+    Blocks3: 3
+  NosPower:
+    Info:
+      Name: Nos Boost
+      Bio: Give your vehicle an immense boost as you see your opponents left behind.
+      PowerSprite: {fileID: 21300000, guid: f2d7e4a9d82989e4ea39d3b152966cd2, type: 3}
+      FirstField:
+        FieldInfo: Duration in sec
+        from: 2
+        to: 4
+      SecondField:
+        FieldInfo: Boost Power
+        from: 4
+        to: 6
+      ThirdField:
+        FieldInfo:
+        from:
+        to:
+    _PowerUpgradePrices:
+      FirstUpgradePriceInCoins: 100
+      SecondUpgradePriceInCoins: 500
+      ThirdUpgradePriceInCoins: 1000
+      FirstUpgradePriceInCards: 40
+      SecondUpgradePriceInCards: 100
+      ThirdUpgradePriceInCards: 150
+    Tag: NosPower
+    Duration0: 2
+    Amount0: 4
+    Duration1: 4
+    Amount1: 6
+    Duration2: 6
+    Amount2: 8
+    Duration3: 7
+    Amount3: 10
+  NosRocket:
+    Info:
+      Name: Nos Rocket
+      Bio: Add rocket boost on top of NOS power? You can imagine what will happen right?
+      PowerSprite: {fileID: 21300000, guid: 727b932713cee1d47b0011055391ae51, type: 3}
+      FirstField:
+        FieldInfo: Duration in sec
+        from: 2
+        to: 3
+      SecondField:
+        FieldInfo: Boost Power
+        from: 2
+        to: 3
+      ThirdField:
+        FieldInfo:
+        from:
+        to:
+    _PowerUpgradePrices:
+      FirstUpgradePriceInCoins: 250
+      SecondUpgradePriceInCoins: 500
+      ThirdUpgradePriceInCoins: 1000
+      FirstUpgradePriceInCards: 50
+      SecondUpgradePriceInCards: 100
+      ThirdUpgradePriceInCards: 150
+    Tag: NosRocket
+    Duration0: 2
+    Amount0: 2
+    Duration1: 3
+    Amount1: 3
+    Duration2: 4
+    Amount2: 4
+    Duration3: 5
+    Amount3: 5

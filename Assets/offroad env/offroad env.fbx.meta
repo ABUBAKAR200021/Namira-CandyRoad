@@ -1,0 +1,1017 @@
+fileFormatVersion: 2
+guid: 5ec66dd135b469146ba2a0d783830eb3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: _03_with_textures_1
+    100002: _03_with_textures_1__1_
+    100004: _03_with_textures_1__2_
+    100006: Aspault
+    100008: Aspault_1
+    100010: Aspault_2
+    100012: Aspault_3
+    100014: Aspault_4
+    100016: Blockroad__4_
+    100018: Box001
+    100020: Box001_1
+    100022: Box001_2
+    100024: Bus_STands
+    100026: BusStand
+    100028: BusStand__1_
+    100030: BusStand__2_Shape
+    100032: BusStand__3_
+    100034: Cliff_5x14_V01_LOD1__17_
+    100036: Cliff_5x14_V01_LOD1_Cliff_5x14_V01_LOD1
+    100038: Cliff_5x14_V01_LOD1_Cliff_5x14_V01_LOD1_2
+    100040: Concrete_basket_LOD3_1
+    100042: Cube_2
+    100044: Cube__3__3
+    100046: Cube__4_
+    100048: Gas_station
+    100050: Gas_station__1_
+    100052: Gas_station__2_
+    100054: Grass_9
+    100056: Grass__3__3
+    100058: grass_curv
+    100060: grass_curv__1_
+    100062: Green_Patch
+    100064: Left_001
+    100066: Left_002
+    100068: Left_003
+    100070: Left_004
+    100072: LeftRight_001
+    100074: LeftRight_002
+    100076: LeftRight_003
+    100078: LeftRight_004
+    100080: mcp_bus_stop_LOD_1
+    100082: mcp_bus_stop_LOD_1 1
+    100084: mcp_bus_stop_LOD_1 2
+    100086: mcp_bus_stop_LOD_1 3
+    100088: mcp_bus_stop_LOD_1 4
+    100090: mcp_bus_stop_LOD_1 5
+    100092: mcp_bus_stop_LOD_1 6
+    100094: mcp_bus_stop_LOD_1 7
+    100096: mcp_bus_stop_LOD_1 8
+    100098: mcp_bus_stop_LOD_1 9
+    100100: mcp_bus_stop_LOD_1__1_
+    100102: mcp_bus_stop_LOD_1__2_
+    100104: mcp_bus_stop_LOD_1__3_
+    100106: mcp_bus_stop_LOD_1__4_
+    100108: MediumRock__10_
+    100110: MediumRock__24_
+    100112: MediumRock__25_
+    100114: MediumRock__28_
+    100116: metallicSup_1
+    100118: metallicSup_2
+    100120: metallicSup__1_
+    100122: metallicSup__1__1
+    100124: metallicSup__2_
+    100126: metallicSup__2__1
+    100128: metallicSup__3_
+    100130: metallicSup__3__1
+    100132: metallicSup__4_
+    100134: metallicSup__5_
+    100136: metallicSup__6_
+    100138: metallicSup__7_
+    100140: metallicSup__8_
+    100142: metallicSup__9_
+    100144: Military_assets
+    100146: Mountain_Env_Rooh_2
+    100148: Object001
+    100150: Object001_1
+    100152: Object001_2
+    100154: Object002
+    100156: Object002_1
+    100158: Object002_2
+    100160: Object002__1_
+    100162: Object013
+    100164: Object013__1_
+    100166: Object014__209_
+    100168: //RootNode
+    100170: Park_bench_LOD3_1
+    100172: pCylinde20
+    100174: pCylinde20_1
+    100176: pCylinde20_2
+    100178: petronas_001
+    100180: petronas_001_1
+    100182: petronas_001_2
+    100184: PineTree__761_
+    100186: Plane
+    100188: Plane__1_
+    100190: Platform
+    100192: platform
+    100194: platform1
+    100196: platform2
+    100198: platform3
+    100200: platform4
+    100202: platform5
+    100204: platform6
+    100206: platform7
+    100208: platform8
+    100210: platform9
+    100212: Platform__1_
+    100214: Platform__2_
+    100216: Platform__3_
+    100218: Platform__4_
+    100220: polySurface36
+    100222: polySurface37
+    100224: polySurface37 1
+    100226: polySurface37 2
+    100228: polySurface37 3
+    100230: polySurface37 4
+    100232: polySurface37 5
+    100234: polySurface37 6
+    100236: polySurface37 7
+    100238: polySurface37 8
+    100240: polySurface37 9
+    100242: polySurface38
+    100244: Repentances
+    100246: Right_001
+    100248: Right_002
+    100250: Right_003
+    100252: Right_004
+    100254: RightLeft_001
+    100256: RightLeft_002
+    100258: RightLeft_003
+    100260: RightLeft_004
+    100262: Road
+    100264: Road_003
+    100266: Road_col
+    100268: road_objects
+    100270: Road_pave
+    100272: Road_pave_1
+    100274: Road_pave_2
+    100276: Road_pave_3
+    100278: Road_pave_4
+    100280: rock2__207_
+    100282: rock_new
+    100284: Stand_FULL__1_
+    100286: Stand_FULL__2_
+    100288: StopSign_004
+    100290: StopSign_005
+    100292: StopSign_006
+    100294: Track06_summer3
+    100296: transform1
+    100298: Tunnel
+    400000: _03_with_textures_1
+    400002: _03_with_textures_1__1_
+    400004: _03_with_textures_1__2_
+    400006: Aspault
+    400008: Aspault_1
+    400010: Aspault_2
+    400012: Aspault_3
+    400014: Aspault_4
+    400016: Blockroad__4_
+    400018: Box001
+    400020: Box001_1
+    400022: Box001_2
+    400024: Bus_STands
+    400026: BusStand
+    400028: BusStand__1_
+    400030: BusStand__2_Shape
+    400032: BusStand__3_
+    400034: Cliff_5x14_V01_LOD1__17_
+    400036: Cliff_5x14_V01_LOD1_Cliff_5x14_V01_LOD1
+    400038: Cliff_5x14_V01_LOD1_Cliff_5x14_V01_LOD1_2
+    400040: Concrete_basket_LOD3_1
+    400042: Cube_2
+    400044: Cube__3__3
+    400046: Cube__4_
+    400048: Gas_station
+    400050: Gas_station__1_
+    400052: Gas_station__2_
+    400054: Grass_9
+    400056: Grass__3__3
+    400058: grass_curv
+    400060: grass_curv__1_
+    400062: Green_Patch
+    400064: Left_001
+    400066: Left_002
+    400068: Left_003
+    400070: Left_004
+    400072: LeftRight_001
+    400074: LeftRight_002
+    400076: LeftRight_003
+    400078: LeftRight_004
+    400080: mcp_bus_stop_LOD_1
+    400082: mcp_bus_stop_LOD_1 1
+    400084: mcp_bus_stop_LOD_1 2
+    400086: mcp_bus_stop_LOD_1 3
+    400088: mcp_bus_stop_LOD_1 4
+    400090: mcp_bus_stop_LOD_1 5
+    400092: mcp_bus_stop_LOD_1 6
+    400094: mcp_bus_stop_LOD_1 7
+    400096: mcp_bus_stop_LOD_1 8
+    400098: mcp_bus_stop_LOD_1 9
+    400100: mcp_bus_stop_LOD_1__1_
+    400102: mcp_bus_stop_LOD_1__2_
+    400104: mcp_bus_stop_LOD_1__3_
+    400106: mcp_bus_stop_LOD_1__4_
+    400108: MediumRock__10_
+    400110: MediumRock__24_
+    400112: MediumRock__25_
+    400114: MediumRock__28_
+    400116: metallicSup_1
+    400118: metallicSup_2
+    400120: metallicSup__1_
+    400122: metallicSup__1__1
+    400124: metallicSup__2_
+    400126: metallicSup__2__1
+    400128: metallicSup__3_
+    400130: metallicSup__3__1
+    400132: metallicSup__4_
+    400134: metallicSup__5_
+    400136: metallicSup__6_
+    400138: metallicSup__7_
+    400140: metallicSup__8_
+    400142: metallicSup__9_
+    400144: Military_assets
+    400146: Mountain_Env_Rooh_2
+    400148: Object001
+    400150: Object001_1
+    400152: Object001_2
+    400154: Object002
+    400156: Object002_1
+    400158: Object002_2
+    400160: Object002__1_
+    400162: Object013
+    400164: Object013__1_
+    400166: Object014__209_
+    400168: //RootNode
+    400170: Park_bench_LOD3_1
+    400172: pCylinde20
+    400174: pCylinde20_1
+    400176: pCylinde20_2
+    400178: petronas_001
+    400180: petronas_001_1
+    400182: petronas_001_2
+    400184: PineTree__761_
+    400186: Plane
+    400188: Plane__1_
+    400190: Platform
+    400192: platform
+    400194: platform1
+    400196: platform2
+    400198: platform3
+    400200: platform4
+    400202: platform5
+    400204: platform6
+    400206: platform7
+    400208: platform8
+    400210: platform9
+    400212: Platform__1_
+    400214: Platform__2_
+    400216: Platform__3_
+    400218: Platform__4_
+    400220: polySurface36
+    400222: polySurface37
+    400224: polySurface37 1
+    400226: polySurface37 2
+    400228: polySurface37 3
+    400230: polySurface37 4
+    400232: polySurface37 5
+    400234: polySurface37 6
+    400236: polySurface37 7
+    400238: polySurface37 8
+    400240: polySurface37 9
+    400242: polySurface38
+    400244: Repentances
+    400246: Right_001
+    400248: Right_002
+    400250: Right_003
+    400252: Right_004
+    400254: RightLeft_001
+    400256: RightLeft_002
+    400258: RightLeft_003
+    400260: RightLeft_004
+    400262: Road
+    400264: Road_003
+    400266: Road_col
+    400268: road_objects
+    400270: Road_pave
+    400272: Road_pave_1
+    400274: Road_pave_2
+    400276: Road_pave_3
+    400278: Road_pave_4
+    400280: rock2__207_
+    400282: rock_new
+    400284: Stand_FULL__1_
+    400286: Stand_FULL__2_
+    400288: StopSign_004
+    400290: StopSign_005
+    400292: StopSign_006
+    400294: Track06_summer3
+    400296: transform1
+    400298: Tunnel
+    2300000: Aspault
+    2300002: Aspault_1
+    2300004: Aspault_2
+    2300006: Aspault_3
+    2300008: Aspault_4
+    2300010: Blockroad__4_
+    2300012: Box001
+    2300014: Box001_1
+    2300016: Box001_2
+    2300018: BusStand
+    2300020: BusStand__1_
+    2300022: BusStand__2_Shape
+    2300024: BusStand__3_
+    2300026: Cliff_5x14_V01_LOD1__17_
+    2300028: Cliff_5x14_V01_LOD1_Cliff_5x14_V01_LOD1
+    2300030: Cliff_5x14_V01_LOD1_Cliff_5x14_V01_LOD1_2
+    2300032: Concrete_basket_LOD3_1
+    2300034: Cube_2
+    2300036: Cube__3__3
+    2300038: Grass_9
+    2300040: Grass__3__3
+    2300042: grass_curv
+    2300044: grass_curv__1_
+    2300046: Green_Patch
+    2300048: Left_001
+    2300050: Left_002
+    2300052: Left_003
+    2300054: Left_004
+    2300056: LeftRight_001
+    2300058: LeftRight_002
+    2300060: LeftRight_003
+    2300062: LeftRight_004
+    2300064: mcp_bus_stop_LOD_1
+    2300066: mcp_bus_stop_LOD_1 1
+    2300068: mcp_bus_stop_LOD_1 2
+    2300070: mcp_bus_stop_LOD_1 3
+    2300072: mcp_bus_stop_LOD_1 4
+    2300074: mcp_bus_stop_LOD_1 5
+    2300076: mcp_bus_stop_LOD_1 6
+    2300078: mcp_bus_stop_LOD_1 7
+    2300080: mcp_bus_stop_LOD_1 8
+    2300082: mcp_bus_stop_LOD_1 9
+    2300084: mcp_bus_stop_LOD_1__1_
+    2300086: mcp_bus_stop_LOD_1__2_
+    2300088: mcp_bus_stop_LOD_1__3_
+    2300090: mcp_bus_stop_LOD_1__4_
+    2300092: MediumRock__10_
+    2300094: MediumRock__24_
+    2300096: MediumRock__25_
+    2300098: MediumRock__28_
+    2300100: metallicSup_1
+    2300102: metallicSup_2
+    2300104: metallicSup__1_
+    2300106: metallicSup__1__1
+    2300108: metallicSup__2_
+    2300110: metallicSup__2__1
+    2300112: metallicSup__3_
+    2300114: metallicSup__3__1
+    2300116: metallicSup__4_
+    2300118: metallicSup__5_
+    2300120: metallicSup__6_
+    2300122: metallicSup__7_
+    2300124: metallicSup__8_
+    2300126: metallicSup__9_
+    2300128: Object001
+    2300130: Object001_1
+    2300132: Object001_2
+    2300134: Object002
+    2300136: Object002_1
+    2300138: Object002_2
+    2300140: Object002__1_
+    2300142: Object013
+    2300144: Object013__1_
+    2300146: Object014__209_
+    2300148: Park_bench_LOD3_1
+    2300150: pCylinde20
+    2300152: pCylinde20_1
+    2300154: pCylinde20_2
+    2300156: petronas_001
+    2300158: petronas_001_1
+    2300160: petronas_001_2
+    2300162: PineTree__761_
+    2300164: Plane
+    2300166: Plane__1_
+    2300168: polySurface36
+    2300170: polySurface37
+    2300172: polySurface37 1
+    2300174: polySurface37 2
+    2300176: polySurface37 3
+    2300178: polySurface37 4
+    2300180: polySurface37 5
+    2300182: polySurface37 6
+    2300184: polySurface37 7
+    2300186: polySurface37 8
+    2300188: polySurface37 9
+    2300190: polySurface38
+    2300192: Right_001
+    2300194: Right_002
+    2300196: Right_003
+    2300198: Right_004
+    2300200: RightLeft_001
+    2300202: RightLeft_002
+    2300204: RightLeft_003
+    2300206: RightLeft_004
+    2300208: Road_003
+    2300210: Road_col
+    2300212: Road_pave
+    2300214: Road_pave_1
+    2300216: Road_pave_2
+    2300218: Road_pave_3
+    2300220: Road_pave_4
+    2300222: rock2__207_
+    2300224: StopSign_004
+    2300226: StopSign_005
+    2300228: StopSign_006
+    2300230: Tunnel
+    3300000: Aspault
+    3300002: Aspault_1
+    3300004: Aspault_2
+    3300006: Aspault_3
+    3300008: Aspault_4
+    3300010: Blockroad__4_
+    3300012: Box001
+    3300014: Box001_1
+    3300016: Box001_2
+    3300018: BusStand
+    3300020: BusStand__1_
+    3300022: BusStand__2_Shape
+    3300024: BusStand__3_
+    3300026: Cliff_5x14_V01_LOD1__17_
+    3300028: Cliff_5x14_V01_LOD1_Cliff_5x14_V01_LOD1
+    3300030: Cliff_5x14_V01_LOD1_Cliff_5x14_V01_LOD1_2
+    3300032: Concrete_basket_LOD3_1
+    3300034: Cube_2
+    3300036: Cube__3__3
+    3300038: Grass_9
+    3300040: Grass__3__3
+    3300042: grass_curv
+    3300044: grass_curv__1_
+    3300046: Green_Patch
+    3300048: Left_001
+    3300050: Left_002
+    3300052: Left_003
+    3300054: Left_004
+    3300056: LeftRight_001
+    3300058: LeftRight_002
+    3300060: LeftRight_003
+    3300062: LeftRight_004
+    3300064: mcp_bus_stop_LOD_1
+    3300066: mcp_bus_stop_LOD_1 1
+    3300068: mcp_bus_stop_LOD_1 2
+    3300070: mcp_bus_stop_LOD_1 3
+    3300072: mcp_bus_stop_LOD_1 4
+    3300074: mcp_bus_stop_LOD_1 5
+    3300076: mcp_bus_stop_LOD_1 6
+    3300078: mcp_bus_stop_LOD_1 7
+    3300080: mcp_bus_stop_LOD_1 8
+    3300082: mcp_bus_stop_LOD_1 9
+    3300084: mcp_bus_stop_LOD_1__1_
+    3300086: mcp_bus_stop_LOD_1__2_
+    3300088: mcp_bus_stop_LOD_1__3_
+    3300090: mcp_bus_stop_LOD_1__4_
+    3300092: MediumRock__10_
+    3300094: MediumRock__24_
+    3300096: MediumRock__25_
+    3300098: MediumRock__28_
+    3300100: metallicSup_1
+    3300102: metallicSup_2
+    3300104: metallicSup__1_
+    3300106: metallicSup__1__1
+    3300108: metallicSup__2_
+    3300110: metallicSup__2__1
+    3300112: metallicSup__3_
+    3300114: metallicSup__3__1
+    3300116: metallicSup__4_
+    3300118: metallicSup__5_
+    3300120: metallicSup__6_
+    3300122: metallicSup__7_
+    3300124: metallicSup__8_
+    3300126: metallicSup__9_
+    3300128: Object001
+    3300130: Object001_1
+    3300132: Object001_2
+    3300134: Object002
+    3300136: Object002_1
+    3300138: Object002_2
+    3300140: Object002__1_
+    3300142: Object013
+    3300144: Object013__1_
+    3300146: Object014__209_
+    3300148: Park_bench_LOD3_1
+    3300150: pCylinde20
+    3300152: pCylinde20_1
+    3300154: pCylinde20_2
+    3300156: petronas_001
+    3300158: petronas_001_1
+    3300160: petronas_001_2
+    3300162: PineTree__761_
+    3300164: Plane
+    3300166: Plane__1_
+    3300168: polySurface36
+    3300170: polySurface37
+    3300172: polySurface37 1
+    3300174: polySurface37 2
+    3300176: polySurface37 3
+    3300178: polySurface37 4
+    3300180: polySurface37 5
+    3300182: polySurface37 6
+    3300184: polySurface37 7
+    3300186: polySurface37 8
+    3300188: polySurface37 9
+    3300190: polySurface38
+    3300192: Right_001
+    3300194: Right_002
+    3300196: Right_003
+    3300198: Right_004
+    3300200: RightLeft_001
+    3300202: RightLeft_002
+    3300204: RightLeft_003
+    3300206: RightLeft_004
+    3300208: Road_003
+    3300210: Road_col
+    3300212: Road_pave
+    3300214: Road_pave_1
+    3300216: Road_pave_2
+    3300218: Road_pave_3
+    3300220: Road_pave_4
+    3300222: rock2__207_
+    3300224: StopSign_004
+    3300226: StopSign_005
+    3300228: StopSign_006
+    3300230: Tunnel
+    4300000: grass_curv
+    4300002: Aspault
+    4300004: Road_pave
+    4300006: BusStand
+    4300008: MediumRock__10_
+    4300010: MediumRock__24_
+    4300012: MediumRock__25_
+    4300014: BusStand__1_
+    4300016: MediumRock__28_
+    4300018: BusStand__3_
+    4300020: Grass_9
+    4300022: Grass__3__3
+    4300024: metallicSup_1
+    4300026: metallicSup__1_
+    4300028: metallicSup__2_
+    4300030: metallicSup__3_
+    4300032: Aspault_1
+    4300034: Cube_2
+    4300036: Road_pave_1
+    4300038: Plane
+    4300040: Plane__1_
+    4300042: grass_curv__1_
+    4300044: Aspault_2
+    4300046: Road_pave_2
+    4300048: Aspault_3
+    4300050: Road_pave_3
+    4300052: Aspault_4
+    4300054: Road_pave_4
+    4300056: metallicSup_2
+    4300058: Concrete_basket_LOD3_1
+    4300060: Park_bench_LOD3_1
+    4300062: metallicSup__2__1
+    4300064: metallicSup__1__1
+    4300066: metallicSup__3__1
+    4300068: metallicSup__4_
+    4300070: metallicSup__5_
+    4300072: metallicSup__6_
+    4300074: metallicSup__7_
+    4300076: metallicSup__8_
+    4300078: metallicSup__9_
+    4300080: Cliff_5x14_V01_LOD1_Cliff_5x14_V01_LOD1
+    4300082: Left_001
+    4300084: Left_002
+    4300086: Left_003
+    4300088: Left_004
+    4300090: LeftRight_001
+    4300092: LeftRight_002
+    4300094: LeftRight_003
+    4300096: LeftRight_004
+    4300098: Right_001
+    4300100: Right_002
+    4300102: Right_003
+    4300104: Right_004
+    4300106: RightLeft_001
+    4300108: RightLeft_002
+    4300110: RightLeft_003
+    4300112: RightLeft_004
+    4300114: StopSign_004
+    4300116: StopSign_005
+    4300118: StopSign_006
+    4300120: Road_col
+    4300122: Tunnel
+    4300124: Object001
+    4300126: Object002
+    4300128: petronas_001
+    4300130: Object002__1_
+    4300132: Object013
+    4300134: Object001_1
+    4300136: Object002_1
+    4300138: petronas_001_1
+    4300140: Object001_2
+    4300142: Object002_2
+    4300144: petronas_001_2
+    4300146: mcp_bus_stop_LOD_1__1_
+    4300148: mcp_bus_stop_LOD_1__2_
+    4300150: mcp_bus_stop_LOD_1__3_
+    4300152: Cube__3__3
+    4300154: mcp_bus_stop_LOD_1__4_
+    4300156: Box001
+    4300158: pCylinde20
+    4300160: Box001_1
+    4300162: pCylinde20_1
+    4300164: Box001_2
+    4300166: pCylinde20_2
+    4300168: Blockroad__4_
+    4300170: Object013__1_
+    4300172: Green_Patch
+    4300174: PineTree__761_
+    4300176: BusStand__2_Shape
+    4300178: Object014__209_
+    4300180: polySurface36
+    4300182: rock2__207_
+    4300184: Cliff_5x14_V01_LOD1__17_
+    4300186: Road_003
+    4300188: polySurface38
+    4300190: Cliff_5x14_V01_LOD1_Cliff_5x14_V01_LOD1_2
+    4300192: polySurface37
+    4300194: mcp_bus_stop_LOD_1
+    4300196: polySurface37
+    4300198: mcp_bus_stop_LOD_1
+    4300200: polySurface37
+    4300202: mcp_bus_stop_LOD_1
+    4300204: polySurface37
+    4300206: mcp_bus_stop_LOD_1
+    4300208: polySurface37
+    4300210: mcp_bus_stop_LOD_1
+    4300212: polySurface37
+    4300214: mcp_bus_stop_LOD_1
+    4300216: polySurface37
+    4300218: mcp_bus_stop_LOD_1
+    4300220: polySurface37
+    4300222: mcp_bus_stop_LOD_1
+    4300224: polySurface37
+    4300226: mcp_bus_stop_LOD_1
+    4300228: polySurface37
+    4300230: mcp_bus_stop_LOD_1
+    6400000: Aspault
+    6400002: Aspault_1
+    6400004: Aspault_2
+    6400006: Aspault_3
+    6400008: Aspault_4
+    6400010: Blockroad__4_
+    6400012: Box001
+    6400014: Box001_1
+    6400016: Box001_2
+    6400018: BusStand
+    6400020: BusStand__1_
+    6400022: BusStand__2_Shape
+    6400024: BusStand__3_
+    6400026: Cliff_5x14_V01_LOD1__17_
+    6400028: Cliff_5x14_V01_LOD1_Cliff_5x14_V01_LOD1
+    6400030: Cliff_5x14_V01_LOD1_Cliff_5x14_V01_LOD1_2
+    6400032: Concrete_basket_LOD3_1
+    6400034: Cube_2
+    6400036: Cube__3__3
+    6400038: Grass_9
+    6400040: Grass__3__3
+    6400042: grass_curv
+    6400044: grass_curv__1_
+    6400046: Green_Patch
+    6400048: Left_001
+    6400050: Left_002
+    6400052: Left_003
+    6400054: Left_004
+    6400056: LeftRight_001
+    6400058: LeftRight_002
+    6400060: LeftRight_003
+    6400062: LeftRight_004
+    6400064: mcp_bus_stop_LOD_1
+    6400066: mcp_bus_stop_LOD_1 1
+    6400068: mcp_bus_stop_LOD_1 2
+    6400070: mcp_bus_stop_LOD_1 3
+    6400072: mcp_bus_stop_LOD_1 4
+    6400074: mcp_bus_stop_LOD_1 5
+    6400076: mcp_bus_stop_LOD_1 6
+    6400078: mcp_bus_stop_LOD_1 7
+    6400080: mcp_bus_stop_LOD_1 8
+    6400082: mcp_bus_stop_LOD_1 9
+    6400084: mcp_bus_stop_LOD_1__1_
+    6400086: mcp_bus_stop_LOD_1__2_
+    6400088: mcp_bus_stop_LOD_1__3_
+    6400090: mcp_bus_stop_LOD_1__4_
+    6400092: MediumRock__10_
+    6400094: MediumRock__24_
+    6400096: MediumRock__25_
+    6400098: MediumRock__28_
+    6400100: metallicSup_1
+    6400102: metallicSup_2
+    6400104: metallicSup__1_
+    6400106: metallicSup__1__1
+    6400108: metallicSup__2_
+    6400110: metallicSup__2__1
+    6400112: metallicSup__3_
+    6400114: metallicSup__3__1
+    6400116: metallicSup__4_
+    6400118: metallicSup__5_
+    6400120: metallicSup__6_
+    6400122: metallicSup__7_
+    6400124: metallicSup__8_
+    6400126: metallicSup__9_
+    6400128: Object001
+    6400130: Object001_1
+    6400132: Object001_2
+    6400134: Object002
+    6400136: Object002_1
+    6400138: Object002_2
+    6400140: Object002__1_
+    6400142: Object013
+    6400144: Object013__1_
+    6400146: Object014__209_
+    6400148: Park_bench_LOD3_1
+    6400150: pCylinde20
+    6400152: pCylinde20_1
+    6400154: pCylinde20_2
+    6400156: petronas_001
+    6400158: petronas_001_1
+    6400160: petronas_001_2
+    6400162: PineTree__761_
+    6400164: Plane
+    6400166: Plane__1_
+    6400168: polySurface36
+    6400170: polySurface37
+    6400172: polySurface37 1
+    6400174: polySurface37 2
+    6400176: polySurface37 3
+    6400178: polySurface37 4
+    6400180: polySurface37 5
+    6400182: polySurface37 6
+    6400184: polySurface37 7
+    6400186: polySurface37 8
+    6400188: polySurface37 9
+    6400190: polySurface38
+    6400192: Right_001
+    6400194: Right_002
+    6400196: Right_003
+    6400198: Right_004
+    6400200: RightLeft_001
+    6400202: RightLeft_002
+    6400204: RightLeft_003
+    6400206: RightLeft_004
+    6400208: Road_003
+    6400210: Road_col
+    6400212: Road_pave
+    6400214: Road_pave_1
+    6400216: Road_pave_2
+    6400218: Road_pave_3
+    6400220: Road_pave_4
+    6400222: rock2__207_
+    6400224: StopSign_004
+    6400226: StopSign_005
+    6400228: StopSign_006
+    6400230: Tunnel
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Billboards_bckg
+    second: {fileID: 2100000, guid: 94bd0f4bcae651e4c9ce8c09ccbdc322, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cliff_5x14_V01
+    second: {fileID: 2100000, guid: d09baab2110cef74c902673b9674aeba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CristalmetallicSupMat
+    second: {fileID: 2100000, guid: 9b5268a3634c94448b87a862ab006e4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CslEXIS
+    second: {fileID: 2100000, guid: 24dc3d4e719ac54448f62dd109289498, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: f15dc057460af12418058ae5e03a2c11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GrassyStone
+    second: {fileID: 2100000, guid: 5a2f44fbd2e81c44998f84b042d6919b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GreenGrass
+    second: {fileID: 2100000, guid: b09a0baceed6c7742bb891a172b9592f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Park_bench_lod
+    second: {fileID: 2100000, guid: 2e9b22bb71369f547a59ee11fadddf25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MainMenuGround
+    second: {fileID: 2100000, guid: 1179ef14bf913e144b1d9e7274d4203c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MainMenuPavement
+    second: {fileID: 2100000, guid: 2675500035fcb22419fddfde01f75693, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PineTrees
+    second: {fileID: 2100000, guid: d114a607bdb02634c917fc1e32ea29f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RepentanceSign
+    second: {fileID: 2100000, guid: e04b457337f691e41a36b9079234fff5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoadLight
+    second: {fileID: 2100000, guid: 8e111307d96ac594798c2f34da85a158, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StationGrassMainMenu
+    second: {fileID: 2100000, guid: 343fc8a74d4e51d45a9c797abf992af1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Station_Text
+    second: {fileID: 2100000, guid: 35848f65a48406f43b2833680d7b3ca0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StopRoadSigns_AlbedoTransparency
+    second: {fileID: 2100000, guid: acf55c397fb73bd47a3dfa7c99e1fa20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T_concrete_basket_BC_H
+    second: {fileID: 2100000, guid: 17accce69ad4c274990bb6ad675e2fd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tunnel1
+    second: {fileID: 2100000, guid: 1e5988c27716016439052eebd816f1b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TunnelLamps
+    second: {fileID: 2100000, guid: 7e4546e87871a084ba6972ba3188f3a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TurnSign_1
+    second: {fileID: 2100000, guid: 00ead4e15f3d27740b2afb12b78800ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aerial_grass_rock_diff_1k
+    second: {fileID: 2100000, guid: 9e4c43c5a3ed4af43963ae34fcad3e67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg
+    second: {fileID: 2100000, guid: aa987eedd3b739a4aae1f3e2a0cd4092, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_station
+    second: {fileID: 2100000, guid: 02013e093925a824a95a2e8cf51b1f25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass2
+    second: {fileID: 2100000, guid: a3d205a511217a04881846727f255fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: d1732f554bc051145ab2bfdaef06d71f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: 6e19a975074ecb848b1903b2c0438638, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert4
+    second: {fileID: 2100000, guid: 847be111fa4ab9343b326aad79924b14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5
+    second: {fileID: 2100000, guid: e4a2198e6c5617a4ca041f14e5e7d117, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metallicSupMat
+    second: {fileID: 2100000, guid: ec2c6de49fcb2a24a851c4cca2d84da7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: road_check01
+    second: {fileID: 2100000, guid: ea4e38fb2e83f1649a94e03b2902de4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: road_png_atlas
+    second: {fileID: 2100000, guid: 43cc1eda82374df4dab46e88814e323c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: template_02
+    second: {fileID: 2100000, guid: a6b1863c61d8a3c46be93079e00bc800, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

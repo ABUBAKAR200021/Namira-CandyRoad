@@ -1,0 +1,1374 @@
+fileFormatVersion: 2
+guid: 8d59a5bcb8c307645a5dd554f4cad495
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ellipse 2
+    21300002: Center_little_04
+    21300004: Diamond 1
+    21300006: shopping-cart-goods-biotechnology-shopping-cart
+    21300008: Progress Bar BG
+    21300010: Settings
+    21300012: XP BG
+    21300014: kisspng-computer-icons-garage-doors-computer-software-warehouse-5ae0b0c4b540f6
+    21300016: Progress Bar Fill
+    21300018: Install Button
+    21300020: Untitled-3
+    21300022: Watch AD
+    21300024: Race Button BG 1
+    21300026: Coin Icon
+    21300028: Rectangle 3
+    21300030: Leaderboard_Icon.PNG
+    21300032: Coin Diamond BG
+    21300034: Race Button BG
+    21300036: XP
+    21300038: Bomb
+    21300040: Rate us
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 65
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 56
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ellipse 2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1614
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -16}
+        - {x: -16, y: -14}
+        - {x: -16, y: 16}
+        - {x: 13, y: 16}
+        - {x: 16, y: 15}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -15}
+        - {x: 16, y: 12}
+        - {x: 11, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf962dea1382419e8e8422e71a6bb63f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Center_little_04
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 507
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: -32}
+        - {x: -32, y: -32}
+        - {x: -32, y: 32}
+        - {x: 32, y: 32}
+      physicsShape:
+      - - {x: 6, y: 20}
+        - {x: -1, y: 19}
+        - {x: -9, y: 20}
+        - {x: -21, y: 20}
+        - {x: -21, y: 13}
+        - {x: -8, y: 0}
+        - {x: -21, y: -15}
+        - {x: -21, y: -21}
+        - {x: -17, y: -21}
+        - {x: 1, y: -11}
+        - {x: 17, y: -21}
+        - {x: 21, y: -21}
+        - {x: 21, y: 20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c657dff962dd4be48e65c639893ba946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diamond 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 762
+        width: 512
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -220, y: 55}
+        - {x: -256, y: 100}
+        - {x: -256, y: 109}
+        - {x: -217, y: 149}
+        - {x: -217, y: 150}
+        - {x: -196, y: 172}
+        - {x: -181, y: 188}
+        - {x: -169, y: 192}
+        - {x: -141, y: 201}
+        - {x: -130, y: 204}
+        - {x: -112, y: 211}
+        - {x: -92, y: 216}
+        - {x: 92, y: 216}
+        - {x: 105, y: 212}
+        - {x: 134, y: 203}
+        - {x: 176, y: 190}
+        - {x: 181, y: 188}
+        - {x: 188, y: 181}
+        - {x: 209, y: 159}
+        - {x: 231, y: 136}
+        - {x: 250, y: 116}
+        - {x: 256, y: 109}
+        - {x: 256, y: 100}
+        - {x: 250, y: 93}
+        - {x: 247, y: 89}
+        - {x: 219, y: 53}
+        - {x: 211, y: 43}
+        - {x: 200, y: 30}
+        - {x: 145, y: -39}
+        - {x: 110, y: -83}
+        - {x: 87, y: -112}
+        - {x: 48, y: -161}
+        - {x: 17, y: -200}
+        - {x: 9, y: -211}
+        - {x: 5, y: -216}
+        - {x: -3, y: -216}
+        - {x: -14, y: -204}
+        - {x: -42, y: -168}
+        - {x: -61, y: -145}
+        - {x: -84, y: -115}
+        - {x: -100, y: -96}
+        - {x: -123, y: -66}
+        - {x: -135, y: -52}
+        - {x: -158, y: -22}
+        - {x: -178, y: 2}
+        - {x: -201, y: 32}
+        - {x: -213, y: 46}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512f98dcde6f4123801c7877ebaf71fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopping-cart-goods-biotechnology-shopping-cart
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1198
+        width: 512
+        height: 412
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -111, y: -206}
+        - {x: -135, y: -176}
+        - {x: -125, y: -135}
+        - {x: -116, y: -130}
+        - {x: -136, y: -49}
+        - {x: -152, y: 13}
+        - {x: -187, y: 149}
+        - {x: -255, y: 174}
+        - {x: -256, y: 180}
+        - {x: -256, y: 206}
+        - {x: -222, y: 206}
+        - {x: -207, y: 203}
+        - {x: -153, y: 176}
+        - {x: -139, y: 119}
+        - {x: -138, y: 104}
+        - {x: 248, y: 104}
+        - {x: 256, y: 97}
+        - {x: 256, y: 73}
+        - {x: 216, y: -90}
+        - {x: 208, y: -100}
+        - {x: 204, y: -101}
+        - {x: -86, y: -101}
+        - {x: -58, y: -125}
+        - {x: -41, y: -143}
+        - {x: 121, y: -142}
+        - {x: 137, y: -121}
+        - {x: 171, y: -115}
+        - {x: 239, y: -157}
+        - {x: 241, y: -159}
+        - {x: 241, y: -163}
+        - {x: 240, y: -166}
+        - {x: 238, y: -171}
+        - {x: 233, y: -178}
+        - {x: 191, y: -205}
+        - {x: 185, y: -206}
+        - {x: 139, y: -206}
+        - {x: 134, y: -204}
+        - {x: 118, y: -180}
+        - {x: -40, y: -178}
+        - {x: -43, y: -189}
+        - {x: -59, y: -206}
+      physicsShape:
+      - - {x: 204, y: -177}
+        - {x: 229, y: -177}
+        - {x: 232, y: -176}
+        - {x: 236, y: -172}
+        - {x: 239, y: -165}
+        - {x: 240, y: -160}
+        - {x: 238, y: -158}
+        - {x: 206, y: -158}
+        - {x: 203, y: -148}
+        - {x: 200, y: -141}
+        - {x: 195, y: -134}
+        - {x: 186, y: -125}
+        - {x: 173, y: -121}
+        - {x: 167, y: -120}
+        - {x: 157, y: -120}
+        - {x: 152, y: -121}
+        - {x: 145, y: -122}
+        - {x: 136, y: -128}
+        - {x: 125, y: -140}
+        - {x: 123, y: -144}
+        - {x: -43, y: -144}
+        - {x: -46, y: -140}
+        - {x: -60, y: -126}
+        - {x: -74, y: -120}
+        - {x: -83, y: -120}
+        - {x: -84, y: -114}
+        - {x: -87, y: -100}
+        - {x: 203, y: -100}
+        - {x: 210, y: -96}
+        - {x: 214, y: -87}
+        - {x: 256, y: 79}
+        - {x: 256, y: 95}
+        - {x: 252, y: 100}
+        - {x: 247, y: 102}
+        - {x: 181, y: 102}
+        - {x: 180, y: 103}
+        - {x: -139, y: 103}
+        - {x: -139, y: 105}
+        - {x: -141, y: 114}
+        - {x: -150, y: 150}
+        - {x: -151, y: 155}
+        - {x: -152, y: 159}
+        - {x: -154, y: 168}
+        - {x: -156, y: 172}
+        - {x: -164, y: 179}
+        - {x: -186, y: 188}
+        - {x: -220, y: 202}
+        - {x: -230, y: 206}
+        - {x: -248, y: 206}
+        - {x: -250, y: 205}
+        - {x: -256, y: 200}
+        - {x: -256, y: 185}
+        - {x: -255, y: 182}
+        - {x: -251, y: 178}
+        - {x: -244, y: 175}
+        - {x: -239, y: 173}
+        - {x: -217, y: 164}
+        - {x: -190, y: 153}
+        - {x: -186, y: 150}
+        - {x: -185, y: 143}
+        - {x: -181, y: 132}
+        - {x: -179, y: 124}
+        - {x: -169, y: 85}
+        - {x: -142, y: -20}
+        - {x: -132, y: -59}
+        - {x: -123, y: -94}
+        - {x: -114, y: -131}
+        - {x: -120, y: -138}
+        - {x: -124, y: -147}
+        - {x: -126, y: -153}
+        - {x: -127, y: -165}
+        - {x: -125, y: -176}
+        - {x: -124, y: -181}
+        - {x: -119, y: -189}
+        - {x: -111, y: -196}
+        - {x: -106, y: -200}
+        - {x: -98.99999, y: -203}
+        - {x: -93, y: -205}
+        - {x: -88, y: -206}
+        - {x: -75, y: -206}
+        - {x: -64, y: -204}
+        - {x: -55, y: -198}
+        - {x: -50, y: -192}
+        - {x: -46, y: -187}
+        - {x: -41, y: -177}
+        - {x: 121, y: -177}
+        - {x: 122, y: -180}
+        - {x: 125, y: -187}
+        - {x: 134, y: -197}
+        - {x: 138, y: -201}
+        - {x: 145, y: -204}
+        - {x: 151, y: -206}
+        - {x: 171, y: -206}
+        - {x: 179, y: -205}
+        - {x: 190, y: -198}
+        - {x: 197, y: -191}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31c30874a934a42be9b23ea01968af9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress Bar BG
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1298
+        width: 532
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -263, y: -30}
+        - {x: -266, y: -27}
+        - {x: -266, y: 26}
+        - {x: -262, y: 30}
+        - {x: 266, y: 30}
+        - {x: 266, y: -30}
+      physicsShape:
+      - - {x: -266, y: 30}
+        - {x: -266, y: -30}
+        - {x: 266, y: -30}
+        - {x: 266, y: 30}
+      - - {x: -254, y: -15}
+        - {x: -250, y: -8}
+        - {x: 251, y: -8}
+        - {x: 254, y: -13}
+        - {x: 254, y: -19}
+        - {x: 252, y: -20}
+        - {x: -252, y: -20}
+        - {x: -253, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95de4ab3e1604e4785b674c661cfd858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 140
+        width: 264
+        height: 276
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -118, y: -76}
+        - {x: -132, y: -42}
+        - {x: -132, y: 44}
+        - {x: -119, y: 75}
+        - {x: -108, y: 91}
+        - {x: -72, y: 124}
+        - {x: -39, y: 138}
+        - {x: 36, y: 138}
+        - {x: 61, y: 131}
+        - {x: 104, y: 98}
+        - {x: 114, y: 79}
+        - {x: 126, y: 59}
+        - {x: 132, y: 43}
+        - {x: 132, y: -41}
+        - {x: 117, y: -73}
+        - {x: 99, y: -98}
+        - {x: 79, y: -116}
+        - {x: 53, y: -131}
+        - {x: 28, y: -138}
+        - {x: -30, y: -138}
+        - {x: -48, y: -133}
+        - {x: -84, y: -115}
+      physicsShape:
+      - - {x: 84, y: -109}
+        - {x: 101, y: -91.99999}
+        - {x: 108, y: -83}
+        - {x: 112, y: -78}
+        - {x: 120, y: -62}
+        - {x: 128, y: -42}
+        - {x: 132, y: -18}
+        - {x: 132, y: 30}
+        - {x: 130, y: 40}
+        - {x: 126, y: 53}
+        - {x: 115, y: 77}
+        - {x: 108, y: 85.99999}
+        - {x: 94, y: 102}
+        - {x: 79.99999, y: 113}
+        - {x: 69, y: 121}
+        - {x: 42, y: 134}
+        - {x: 26, y: 137}
+        - {x: 21, y: 138}
+        - {x: -21, y: 138}
+        - {x: -32, y: 136}
+        - {x: -50, y: 130}
+        - {x: -72, y: 119}
+        - {x: -81, y: 113}
+        - {x: -97, y: 97.99999}
+        - {x: -104, y: 91}
+        - {x: -117, y: 74}
+        - {x: -129, y: 46}
+        - {x: -132, y: 34}
+        - {x: -132, y: -19}
+        - {x: -129, y: -38}
+        - {x: -123, y: -58}
+        - {x: -116, y: -71}
+        - {x: -108, y: -84}
+        - {x: -101, y: -93}
+        - {x: -84, y: -109}
+        - {x: -75, y: -116}
+        - {x: -70, y: -120}
+        - {x: -52, y: -130}
+        - {x: -36, y: -136}
+        - {x: -23, y: -138}
+        - {x: 28, y: -138}
+        - {x: 53, y: -130}
+        - {x: 70, y: -120}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ecb886517b48b0a9daa42df8bdeb2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XP BG
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 0
+        width: 620
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -307, y: -67}
+        - {x: -310, y: -64}
+        - {x: -310, y: 63}
+        - {x: -309, y: 64}
+        - {x: -309, y: 65}
+        - {x: -306, y: 68}
+        - {x: 307, y: 68}
+        - {x: 310, y: 64}
+        - {x: 310, y: -64}
+        - {x: 306, y: -68}
+        - {x: -305, y: -68}
+        - {x: -306, y: -67}
+      physicsShape:
+      - - {x: -310, y: 68}
+        - {x: -310, y: -68}
+        - {x: 310, y: -68}
+        - {x: 310, y: 68}
+      - - {x: -305, y: -19}
+        - {x: 305, y: -19}
+        - {x: 298, y: -63}
+        - {x: -297, y: -63}
+        - {x: -298, y: -62}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6dddd32fcf4ba1824fbddfc343d531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-computer-icons-garage-doors-computer-software-warehouse-5ae0b0c4b540f6
+      rect:
+        serializedVersion: 2
+        x: 0.07611847
+        y: 0.07611847
+        width: 935.9239
+        height: 757.8972
+      alignment: 9
+      pivot: {x: 0.452947, y: 0.5092035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 410.962, y: 134.9753}
+        - {x: 408.962, y: 136.9753}
+        - {x: 408.962, y: 139.9753}
+        - {x: 410.962, y: 141.9753}
+        - {x: 429.9619, y: 141.9753}
+        - {x: 431.962, y: 139.9753}
+        - {x: 431.962, y: 136.9753}
+        - {x: 429.9619, y: 134.9753}
+      - - {x: 452.9619, y: 89.97531}
+        - {x: 450.9619, y: 91.97531}
+        - {x: 450.9619, y: 94.97531}
+        - {x: 452.9619, y: 96.97531}
+        - {x: 467.9619, y: 96.97531}
+        - {x: 467.9619, y: 89.97531}
+      - - {x: -431.0381, y: 63.97531}
+        - {x: -445.0381, y: 77.97531}
+        - {x: -445.0381, y: 78.97531}
+        - {x: -468.038, y: 101.9753}
+        - {x: -468.038, y: 174.9753}
+        - {x: -466.038, y: 177.9753}
+        - {x: -247.0381, y: 286.9753}
+        - {x: -245.0381, y: 288.9753}
+        - {x: -64.03806, y: 378.9753}
+        - {x: -59.03806, y: 378.9753}
+        - {x: -48.03806, y: 372.9753}
+        - {x: -46.03806, y: 372.9753}
+        - {x: 58.96194, y: 319.9753}
+        - {x: 60.96194, y: 319.9753}
+        - {x: 165.9619, y: 266.9753}
+        - {x: 167.9619, y: 266.9753}
+        - {x: 272.9619, y: 213.9753}
+        - {x: 274.9619, y: 213.9753}
+        - {x: 369.9619, y: 166.9753}
+        - {x: 379.9619, y: 155.9753}
+        - {x: 379.9619, y: 154.9753}
+        - {x: 388.9619, y: 145.9753}
+        - {x: 388.9619, y: 144.9753}
+        - {x: 398.9619, y: 134.9753}
+        - {x: 398.9619, y: 133.9753}
+        - {x: 401.9619, y: 130.9753}
+        - {x: 402.9619, y: 130.9753}
+        - {x: 406.962, y: 127.9753}
+        - {x: 407.9619, y: 124.9753}
+        - {x: 412.962, y: 118.9753}
+        - {x: 413.9619, y: 118.9753}
+        - {x: 417.9619, y: 114.9753}
+        - {x: 417.9619, y: 112.9753}
+        - {x: 423.9619, y: 106.9753}
+        - {x: 424.9619, y: 106.9753}
+        - {x: 428.9619, y: 102.9753}
+        - {x: 428.9619, y: 100.9753}
+        - {x: 432.9619, y: 96.97531}
+        - {x: 433.962, y: 96.97531}
+        - {x: 437.962, y: 92.97531}
+        - {x: 436.9619, y: 90.97531}
+        - {x: 436.9619, y: 22.97531}
+        - {x: 434.9619, y: 20.97531}
+        - {x: 430.9619, y: 20.97531}
+        - {x: 418.9619, y: 26.97531}
+        - {x: 416.9619, y: 26.97531}
+        - {x: 411.9619, y: 29.97531}
+        - {x: 409.9619, y: 29.97531}
+        - {x: 402.9619, y: 33.97531}
+        - {x: 397.9619, y: 34.97531}
+        - {x: 397.9619, y: 19.97531}
+        - {x: 396.9619, y: 18.97531}
+        - {x: 396.9619, y: -377.0247}
+        - {x: 394.9619, y: -379.0247}
+        - {x: 390.9619, y: -379.0247}
+        - {x: 389.9619, y: -378.0247}
+        - {x: 381.962, y: -378.0247}
+        - {x: 380.9619, y: -379.0247}
+        - {x: 378.9619, y: -379.0247}
+        - {x: 377.9619, y: -378.0247}
+        - {x: -353.0381, y: -378.0247}
+        - {x: -367.0381, y: -364.0247}
+        - {x: -367.0381, y: -363.0247}
+        - {x: -376.0381, y: -354.0247}
+        - {x: -376.0381, y: -353.0247}
+        - {x: -387.0381, y: -342.0247}
+        - {x: -387.0381, y: -341.0247}
+        - {x: -432.0381, y: -295.0247}
+        - {x: -432.0381, y: -21.02469}
+        - {x: -431.0381, y: -20.02469}
+      - - {x: 387.962, y: 158.9753}
+        - {x: 385.962, y: 160.9753}
+        - {x: 385.962, y: 163.9753}
+        - {x: 387.962, y: 165.9753}
+        - {x: 406.962, y: 165.9753}
+        - {x: 408.962, y: 163.9753}
+        - {x: 408.962, y: 160.9753}
+        - {x: 406.962, y: 158.9753}
+      - - {x: 399.9619, y: 146.9753}
+        - {x: 397.9619, y: 148.9753}
+        - {x: 397.9619, y: 151.9753}
+        - {x: 399.9619, y: 153.9753}
+        - {x: 418.9619, y: 153.9753}
+        - {x: 420.9619, y: 151.9753}
+        - {x: 420.9619, y: 148.9753}
+        - {x: 418.9619, y: 146.9753}
+      - - {x: 421.9619, y: 123.9753}
+        - {x: 419.9619, y: 125.9753}
+        - {x: 419.9619, y: 128.9753}
+        - {x: 421.9619, y: 130.9753}
+        - {x: 440.9619, y: 130.9753}
+        - {x: 442.9619, y: 128.9753}
+        - {x: 442.9619, y: 125.9753}
+        - {x: 440.9619, y: 123.9753}
+      - - {x: 432.9619, y: 111.9753}
+        - {x: 430.9619, y: 113.9753}
+        - {x: 430.9619, y: 116.9753}
+        - {x: 432.9619, y: 118.9753}
+        - {x: 451.9619, y: 118.9753}
+        - {x: 453.9619, y: 116.9753}
+        - {x: 453.9619, y: 113.9753}
+        - {x: 451.9619, y: 111.9753}
+      - - {x: 443.9619, y: 99.97531}
+        - {x: 441.9619, y: 101.9753}
+        - {x: 441.9619, y: 104.9753}
+        - {x: 443.9619, y: 106.9753}
+        - {x: 462.962, y: 106.9753}
+        - {x: 464.9619, y: 104.9753}
+        - {x: 464.9619, y: 101.9753}
+        - {x: 462.962, y: 99.97531}
+      physicsShape:
+      - - {x: 435.9619, y: 22.97531}
+        - {x: 435.9619, y: 94.97531}
+        - {x: 369.9619, y: 165.9753}
+        - {x: 271.9619, y: 215.9753}
+        - {x: -57.03806, y: 378.9753}
+        - {x: -64.03806, y: 378.9753}
+        - {x: -468.038, y: 176.9753}
+        - {x: -468.038, y: 98.9753}
+        - {x: -431.0381, y: 62.97531}
+        - {x: -432.0381, y: -94.02469}
+        - {x: -432.0381, y: -293.0247}
+        - {x: -423.0381, y: -304.0247}
+        - {x: -400.0381, y: -328.0247}
+        - {x: -354.0381, y: -377.0247}
+        - {x: 394.9619, y: -377.0247}
+        - {x: 396.9619, y: -375.0247}
+        - {x: 396.9619, y: 35.97531}
+        - {x: 427.9619, y: 18.97531}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f004d5c0f641f89d00a783dda0599e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Progress Bar Fill
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 302
+        width: 520
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 260, y: -24}
+        - {x: -260, y: -24}
+        - {x: -260, y: 24}
+        - {x: 260, y: 24}
+      physicsShape:
+      - - {x: -260, y: 24}
+        - {x: -260, y: -24}
+        - {x: 260, y: -24}
+        - {x: 260, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a06f4cb6524af5b6f68cbc0497d426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Install Button
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 0
+        width: 192
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94, y: -28}
+        - {x: -96, y: -28}
+        - {x: -96, y: 28}
+        - {x: 94, y: 28}
+        - {x: 96, y: 26}
+        - {x: 96, y: -26}
+      physicsShape:
+      - - {x: -96, y: 28}
+        - {x: -96, y: -28}
+        - {x: 91.99999, y: -28}
+        - {x: 96, y: -24}
+        - {x: 96, y: 24}
+        - {x: 91.99999, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2924e02a14443679e14bd3f1b99dfb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled-3
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1038
+        width: 188
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94, y: -128}
+        - {x: -94, y: -128}
+        - {x: -94, y: -66}
+        - {x: -92, y: -61}
+        - {x: -26, y: 60}
+        - {x: -18, y: 71}
+        - {x: -83, y: 70}
+        - {x: -89, y: 73}
+        - {x: -88, y: 127}
+        - {x: -87, y: 128}
+        - {x: 94, y: 128}
+        - {x: 94, y: 62}
+        - {x: 29, y: -57}
+        - {x: 94, y: -71}
+      physicsShape:
+      - - {x: 25, y: -60}
+        - {x: 88, y: 59}
+        - {x: 94, y: 72}
+        - {x: 94, y: 128}
+        - {x: -85, y: 128}
+        - {x: -85, y: 77}
+        - {x: -83, y: 75}
+        - {x: -14, y: 75}
+        - {x: -83, y: -50}
+        - {x: -94, y: -71}
+        - {x: -94, y: -125}
+        - {x: -91.99999, y: -127}
+        - {x: 91.99999, y: -127}
+        - {x: 94, y: -125}
+        - {x: 94, y: -72}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a503d983d22440f6a7ab2b7f5dfa8663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watch AD
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 420
+        width: 264
+        height: 276
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -125, y: -57}
+        - {x: -132, y: -28}
+        - {x: -132, y: 46}
+        - {x: -118, y: 74}
+        - {x: -100, y: 98}
+        - {x: -72, y: 121}
+        - {x: -45, y: 134}
+        - {x: -29, y: 138}
+        - {x: 35, y: 138}
+        - {x: 69, y: 123}
+        - {x: 93, y: 106}
+        - {x: 116, y: 77}
+        - {x: 132, y: 47}
+        - {x: 132, y: -45}
+        - {x: 109, y: -86}
+        - {x: 79, y: -117}
+        - {x: 62, y: -126}
+        - {x: 46, y: -134}
+        - {x: 34, y: -138}
+        - {x: -37, y: -138}
+        - {x: -64, y: -130}
+        - {x: -112, y: -89}
+      physicsShape:
+      - - {x: 75, y: -117}
+        - {x: 83, y: -111}
+        - {x: 102, y: -91.99999}
+        - {x: 116, y: -72.99999}
+        - {x: 124, y: -52}
+        - {x: 127, y: -42}
+        - {x: 132, y: -18}
+        - {x: 132, y: 33}
+        - {x: 126, y: 55}
+        - {x: 117, y: 72}
+        - {x: 104, y: 91}
+        - {x: 85.99999, y: 108}
+        - {x: 77, y: 115}
+        - {x: 66.99999, y: 122}
+        - {x: 45, y: 133}
+        - {x: 22, y: 138}
+        - {x: -23, y: 138}
+        - {x: -39, y: 134}
+        - {x: -52, y: 129}
+        - {x: -72, y: 119}
+        - {x: -85.99999, y: 108}
+        - {x: -104, y: 91}
+        - {x: -118, y: 72}
+        - {x: -129, y: 47}
+        - {x: -132, y: 30}
+        - {x: -132, y: -18}
+        - {x: -129, y: -33}
+        - {x: -126, y: -49}
+        - {x: -115, y: -72.99999}
+        - {x: -108, y: -84}
+        - {x: -102, y: -91}
+        - {x: -82, y: -111}
+        - {x: -75, y: -117}
+        - {x: -66.99999, y: -123}
+        - {x: -43, y: -134}
+        - {x: -32, y: -136}
+        - {x: -22, y: -138}
+        - {x: 23, y: -138}
+        - {x: 29, y: -137}
+        - {x: 46, y: -132}
+        - {x: 60, y: -126}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ce363f040041ed9a4ec937e148834f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Race Button BG 1
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 762
+        width: 436
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 218, y: -136}
+        - {x: -218, y: -136}
+        - {x: -218, y: 127}
+        - {x: -217, y: 128}
+        - {x: -217, y: 129}
+        - {x: -211, y: 136}
+        - {x: 211, y: 136}
+        - {x: 217, y: 129}
+        - {x: 218, y: 128}
+      physicsShape:
+      - - {x: -218, y: 136}
+        - {x: -218, y: -136}
+        - {x: 218, y: -136}
+        - {x: 218, y: 136}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea055062942b4a958043ebc12bccd913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Icon
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1362
+        width: 156
+        height: 164.9239
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5214527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: -82.46194}
+        - {x: -78, y: -82.46194}
+        - {x: -78, y: 33.53806}
+        - {x: -68, y: 76.53806}
+        - {x: -29, y: 82.53806}
+        - {x: 39, y: 82.53806}
+        - {x: 78, y: 61.53806}
+      physicsShape:
+      - - {x: 69, y: -17.46194}
+        - {x: 71, y: -1.461936}
+        - {x: 71, y: 19.53806}
+        - {x: 69, y: 32.53806}
+        - {x: 60, y: 50.53806}
+        - {x: 43, y: 66.53806}
+        - {x: 37, y: 70.53806}
+        - {x: 21, y: 79.53806}
+        - {x: -7, y: 79.53806}
+        - {x: -14, y: 78.53806}
+        - {x: -30, y: 71.53806}
+        - {x: -49, y: 55.53806}
+        - {x: -57, y: 42.53806}
+        - {x: -64, y: 25.53806}
+        - {x: -64, y: -7.461937}
+        - {x: -59, y: -26.46194}
+        - {x: -53, y: -39.46193}
+        - {x: -34, y: -59.46194}
+        - {x: -23, y: -64.46194}
+        - {x: -9.999999, y: -69.46193}
+        - {x: 17, y: -69.46193}
+        - {x: 34, y: -61.46194}
+        - {x: 43, y: -54.46194}
+        - {x: 59, y: -38.46194}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d1fcc4711643fd9a791c59af3ccbc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangle 3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1890
+        width: 1024
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 512, y: -48}
+        - {x: -512, y: -48}
+        - {x: -512, y: 48}
+        - {x: 512, y: 48}
+      physicsShape:
+      - - {x: -512, y: -48}
+        - {x: 512, y: -48}
+        - {x: 512, y: -26}
+        - {x: -512, y: -26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f62879483d747f9ae11955a24b804d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard_Icon.PNG
+      rect:
+        serializedVersion: 2
+        x: 708.0761
+        y: 1126.027
+        width: 113.8478
+        height: 100.9448
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5544937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: -50.49914}
+        - {x: -57, y: -50.49914}
+        - {x: -57, y: 28.50086}
+        - {x: -27, y: 50.50086}
+        - {x: 23, y: 50.50086}
+        - {x: 57, y: 25.50086}
+      physicsShape:
+      - - {x: 52, y: 19.50086}
+        - {x: 37, y: 32.50085}
+        - {x: 30, y: 30.50086}
+        - {x: 21, y: 24.50086}
+        - {x: 21, y: 38.50086}
+        - {x: 9.999999, y: 49.50086}
+        - {x: -6, y: 49.50086}
+        - {x: -16, y: 44.50086}
+        - {x: -33, y: 38.50086}
+        - {x: -47, y: 26.50086}
+        - {x: -54, y: 8.500858}
+        - {x: -52, y: -13.49914}
+        - {x: -57, y: -18.49914}
+        - {x: -57, y: -46.49914}
+        - {x: -53, y: -49.49914}
+        - {x: -50, y: -50.49914}
+        - {x: 47, y: -50.49914}
+        - {x: 51, y: -49.49914}
+        - {x: 56, y: -45.49914}
+        - {x: 56, y: -16.49914}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe929754c9547c68e14b539c4da4dcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Diamond BG
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1038
+        width: 364
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -177, y: -42}
+        - {x: -182, y: -37}
+        - {x: -182, y: 38}
+        - {x: -178, y: 42}
+        - {x: 177, y: 42}
+        - {x: 182, y: 37}
+        - {x: 182, y: -37}
+        - {x: 181, y: -38}
+        - {x: 181, y: -39}
+        - {x: 178, y: -42}
+      physicsShape:
+      - - {x: -182, y: 42}
+        - {x: -182, y: -42}
+        - {x: 182, y: -42}
+        - {x: 182, y: 42}
+      - - {x: -176, y: -30}
+        - {x: -177, y: -15}
+        - {x: -176, y: -14}
+        - {x: -176, y: -11}
+        - {x: 176, y: -11}
+        - {x: 176, y: -14}
+        - {x: 177, y: -15}
+        - {x: 176, y: -30}
+        - {x: 170, y: -37}
+        - {x: -170, y: -37}
+        - {x: -170, y: -36}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054a5503000c4f56a95eccfc8d934650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Race Button BG
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1614
+        width: 436
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 218, y: -136}
+        - {x: -218, y: -136}
+        - {x: -218, y: 127}
+        - {x: -217, y: 128}
+        - {x: -217, y: 129}
+        - {x: -211, y: 136}
+        - {x: 211, y: 136}
+        - {x: 217, y: 129}
+        - {x: 218, y: 128}
+      physicsShape:
+      - - {x: -218, y: 136}
+        - {x: -218, y: -136}
+        - {x: 218, y: -136}
+        - {x: 218, y: 136}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558d756aeffa48c2a82d2770ed6dec02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XP
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 140
+        width: 165
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.5, y: -79}
+        - {x: -82.5, y: -79}
+        - {x: -82.5, y: 50}
+        - {x: -70.5, y: 79}
+        - {x: 38.5, y: 79}
+        - {x: 82.5, y: 58}
+        - {x: 82.5, y: -49}
+      physicsShape:
+      - - {x: -2.5, y: -77}
+        - {x: 36.5, y: -76}
+        - {x: 48.5, y: -69}
+        - {x: 55.5, y: -62}
+        - {x: 59.5, y: -50}
+        - {x: 78.5, y: -35}
+        - {x: 82.5, y: -27}
+        - {x: 82.5, y: 39}
+        - {x: 80.5, y: 45}
+        - {x: 72.5, y: 55}
+        - {x: 38.5, y: 66}
+        - {x: 32.5, y: 72.99999}
+        - {x: 19.5, y: 79}
+        - {x: 5.5, y: 79}
+        - {x: -6.5, y: 69}
+        - {x: -12.5, y: 58}
+        - {x: -19.5, y: 72.99999}
+        - {x: -24.5, y: 79}
+        - {x: -37.5, y: 79}
+        - {x: -49.5, y: 72}
+        - {x: -62.5, y: 61}
+        - {x: -65.5, y: 56}
+        - {x: -64.5, y: 47}
+        - {x: -45.5, y: 9}
+        - {x: -80.5, y: -46}
+        - {x: -82.5, y: -51}
+        - {x: -82.5, y: -65}
+        - {x: -77.5, y: -71}
+        - {x: -65.5, y: -79}
+        - {x: -51.5, y: -79}
+        - {x: -38.5, y: -68}
+        - {x: -22.5, y: -41}
+        - {x: -10.5, y: -70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd40b87a8e943d8bfbb602843293ced
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 354
+        width: 155
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: -74.5}
+        - {x: -77.5, y: -74.5}
+        - {x: -77.5, y: 70.5}
+        - {x: -61.5, y: 74.5}
+        - {x: 77.5, y: 74.5}
+        - {x: 77.5, y: -2.5}
+      physicsShape:
+      - - {x: 38.5, y: -13.5}
+        - {x: 34.5, y: 4.5}
+        - {x: 27.5, y: 20.5}
+        - {x: 44.5, y: 33.5}
+        - {x: 56.5, y: 22.5}
+        - {x: 59.5, y: 23.5}
+        - {x: 60.5, y: 26.5}
+        - {x: 72.5, y: 39.5}
+        - {x: 76.5, y: 39.5}
+        - {x: 76.5, y: 46.5}
+        - {x: 71.5, y: 52.5}
+        - {x: 72.5, y: 62.5}
+        - {x: 67.5, y: 63.5}
+        - {x: 55.5, y: 73.49999}
+        - {x: 44.5, y: 63.5}
+        - {x: 42.5, y: 74.5}
+        - {x: 35.5, y: 74.5}
+        - {x: 28.5, y: 66.5}
+        - {x: 14.5, y: 61.5}
+        - {x: -10.5, y: 57.5}
+        - {x: -17.5, y: 51.5}
+        - {x: -37.5, y: 39.5}
+        - {x: -56.5, y: 30.5}
+        - {x: -62.5, y: 23.5}
+        - {x: -71.5, y: 11.5}
+        - {x: -75.5, y: 4.5}
+        - {x: -77.5, y: -3.5}
+        - {x: -77.5, y: -40.5}
+        - {x: -61.5, y: -61.5}
+        - {x: -50.5, y: -70.5}
+        - {x: -35.5, y: -74.5}
+        - {x: -3.5, y: -74.5}
+        - {x: 15.5, y: -65.5}
+        - {x: 29.5, y: -49.5}
+        - {x: 37.5, y: -29.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2f4c50c67042958203dda3e9958e59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rate us
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 700
+        width: 264
+        height: 276
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -130, y: -37}
+        - {x: -132, y: -30}
+        - {x: -132, y: 43}
+        - {x: -126, y: 61}
+        - {x: -106, y: 91}
+        - {x: -86, y: 110}
+        - {x: -72, y: 121}
+        - {x: -38, y: 136}
+        - {x: -31, y: 138}
+        - {x: 43, y: 138}
+        - {x: 87, y: 112}
+        - {x: 107, y: 92}
+        - {x: 129, y: 54}
+        - {x: 132, y: 41}
+        - {x: 132, y: -30}
+        - {x: 127, y: -57}
+        - {x: 108, y: -92}
+        - {x: 65, y: -128}
+        - {x: 38, y: -138}
+        - {x: -42, y: -138}
+        - {x: -70, y: -124}
+        - {x: -107, y: -91}
+        - {x: -125, y: -57}
+      physicsShape:
+      - - {x: 91.99999, y: -104}
+        - {x: 102, y: -91.99999}
+        - {x: 115, y: -72.99999}
+        - {x: 123, y: -55}
+        - {x: 128, y: -39}
+        - {x: 132, y: -17}
+        - {x: 132, y: 29}
+        - {x: 131, y: 34}
+        - {x: 128, y: 46}
+        - {x: 123, y: 59}
+        - {x: 111, y: 83}
+        - {x: 88, y: 108}
+        - {x: 83, y: 111}
+        - {x: 70, y: 120}
+        - {x: 49, y: 130}
+        - {x: 33, y: 135}
+        - {x: 21, y: 138}
+        - {x: -19, y: 138}
+        - {x: -38, y: 134}
+        - {x: -50, y: 130}
+        - {x: -70, y: 120}
+        - {x: -79, y: 115}
+        - {x: -104, y: 91.99999}
+        - {x: -114, y: 77}
+        - {x: -128, y: 49}
+        - {x: -132, y: 29}
+        - {x: -132, y: -17}
+        - {x: -130, y: -28}
+        - {x: -127, y: -42}
+        - {x: -123, y: -55}
+        - {x: -114, y: -75}
+        - {x: -106, y: -87}
+        - {x: -91.99999, y: -103}
+        - {x: -83, y: -111}
+        - {x: -69, y: -121}
+        - {x: -62, y: -125}
+        - {x: -49, y: -132}
+        - {x: -29, y: -138}
+        - {x: 27, y: -138}
+        - {x: 40, y: -134}
+        - {x: 55, y: -128}
+        - {x: 75, y: -117}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e984ba20c5c4080adc97f130763029d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e720f91e24e2bf34195d1bc3f7b1a096, type: 3}
+  m_Name: CarsDatabaseScriptable
+  m_EditorClassIdentifier:
+  _CarsDictionary:
+    reorderableList: {}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues:
+    - newcar1
+    - newcar2
+    - newcar3
+    - Bhao
+    - Bull
+    - Rock
+    - Jin
+    - Tobi
+    - Pop
+    _keys:
+    - newcar1
+    - newcar2
+    - newcar3
+    - Bhao
+    - Bull
+    - Rock
+    - Jin
+    - Tobi
+    - Pop
+    _values:
+    - PriceInStars: 0
+      PriceInCoins: 0
+      DefaultColor: {r: 0.7075472, g: 0.3561305, b: 0, a: 0}
+      CarPerformance:
+        CarTopSpeed: 178.75
+        CarMaxAcceleration: 8000
+      CarPerformanceEndless:
+        CarTopSpeed: 1
+        CarMaxAcceleration: 0.0676
+    - PriceInStars: 20
+      PriceInCoins: 500
+      DefaultColor: {r: 0.8773585, g: 0.2055074, b: 0, a: 0}
+      CarPerformance:
+        CarTopSpeed: 180.625
+        CarMaxAcceleration: 8285.714
+      CarPerformanceEndless:
+        CarTopSpeed: 1.0429
+        CarMaxAcceleration: 0.0842
+    - PriceInStars: 50
+      PriceInCoins: 1000
+      DefaultColor: {r: 0, g: 0.4484071, b: 0.8018868, a: 0}
+      CarPerformance:
+        CarTopSpeed: 182.5
+        CarMaxAcceleration: 8571.429
+      CarPerformanceEndless:
+        CarTopSpeed: 1.0858
+        CarMaxAcceleration: 0.1008
+    - PriceInStars: 100
+      PriceInCoins: 2000
+      DefaultColor: {r: 0.2132334, g: 0.7075472, b: 0, a: 0}
+      CarPerformance:
+        CarTopSpeed: 184.375
+        CarMaxAcceleration: 8857.144
+      CarPerformanceEndless:
+        CarTopSpeed: 1.1287
+        CarMaxAcceleration: 0.1174
+    - PriceInStars: 150
+      PriceInCoins: 5000
+      DefaultColor: {r: 0.6981132, g: 0, b: 0.6190817, a: 0}
+      CarPerformance:
+        CarTopSpeed: 186.25
+        CarMaxAcceleration: 9142.858
+      CarPerformanceEndless:
+        CarTopSpeed: 1.1716
+        CarMaxAcceleration: 0.134
+    - PriceInStars: 230
+      PriceInCoins: 7500
+      DefaultColor: {r: 0.5849056, g: 0.5849056, b: 0, a: 0}
+      CarPerformance:
+        CarTopSpeed: 188.125
+        CarMaxAcceleration: 9428.572
+      CarPerformanceEndless:
+        CarTopSpeed: 1.2145
+        CarMaxAcceleration: 0.1506
+    - PriceInStars: 400
+      PriceInCoins: 12000
+      DefaultColor: {r: 0.8301887, g: 0.03524384, b: 0.1516734, a: 0}
+      CarPerformance:
+        CarTopSpeed: 190
+        CarMaxAcceleration: 9714.286
+      CarPerformanceEndless:
+        CarTopSpeed: 1.2574
+        CarMaxAcceleration: 0.1672
+    - PriceInStars: 550
+      PriceInCoins: 16000
+      DefaultColor: {r: 0, g: 0.4028053, b: 0.6981132, a: 0}
+      CarPerformance:
+        CarTopSpeed: 191.875
+        CarMaxAcceleration: 10000
+      CarPerformanceEndless:
+        CarTopSpeed: 1.3003
+        CarMaxAcceleration: 0.1838
+    - PriceInStars: 680
+      PriceInCoins: 20000
+      DefaultColor: {r: 0, g: 0.2980392, b: 1, a: 0}
+      CarPerformance:
+        CarTopSpeed: 193.75
+        CarMaxAcceleration: 10285.71
+      CarPerformanceEndless:
+        CarTopSpeed: 1.3432
+        CarMaxAcceleration: 0.2004
